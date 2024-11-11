@@ -1,6 +1,15 @@
 # Scryfall Cards Data Collector
 
-Este projeto utiliza a API do [Scryfall](https://scryfall.com/docs/api) para fazer requisições e coletar dados de cartas do popular jogo de cartas Magic: The Gathering (MTG). Com ele, você pode facilmente pesquisar cartas com parâmetros personalizados e organizar os dados em um `DataFrame` do pandas, facilitando a análise de preços, raridade, cores e outros atributos das cartas.
+Este projeto utiliza a [API do Scryfall](https://scryfall.com/docs/api) para realizar buscas e coletar dados de cartas do popular jogo de cartas Magic: The Gathering (MTG). Através dele, você pode pesquisar cartas com parâmetros personalizados e organizar os dados em um DataFrame do pandas, facilitando análises de preço, raridade, cores e outros atributos das cartas.
+
+O projeto é configurado para realizar buscas de cartas físicas, pois, diferentemente das cartas virtuais, as cartas físicas possuem um preço, o que é um dado valioso para fins de análise.
+
+Se desejar realizar uma busca que inclua cartas virtuais, basta remover o parâmetro (game:paper) ao criar a instância do objeto:
+```bash
+def __init__(self, card_type):
+        self.params = {'q': f'(game:paper) {card_type}'}
+        self.api_search_url = 'https://api.scryfall.com/cards/search'
+```
 
 ## Funcionalidades
 
@@ -41,6 +50,8 @@ Para obter ajuda detalhada sobre os parâmetros, use o método estático help_pa
 ```bash
 Scryfall_Cards.help_params()
 ```
+Outra forma de preencher os parâmetros para a criação do objeto, é usar o próprio site do [Scryfall](https://scryfall.com), basta clicar em Advanced Search:
+
 ## Estrutura do DataFrame
 O DataFrame gerado possui as seguintes colunas:
 * card_name: Nome da carta
