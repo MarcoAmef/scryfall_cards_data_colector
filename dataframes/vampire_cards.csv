@@ -1,0 +1,415 @@
+,card_name,card_type,release,usd_price,cmc,color_identity,rarity
+0,Acolyte of Aclazotz,Creature — Vampire Cleric,2023-11-17,0.03,3.0,['B'],common
+1,Adanto Vanguard,Creature — Vampire Soldier,2017-09-29,0.11,2.0,['W'],uncommon
+2,Alley Assailant,Creature — Vampire Rogue,2024-02-09,0.03,3.0,['B'],common
+3,Alluring Suitor // Deadly Dancer,Creature — Vampire // Creature — Vampire,2021-11-19,0.03,3.0,['R'],uncommon
+4,Amalia Benavides Aguirre,Legendary Creature — Vampire Scout,2023-11-17,0.70,2.0,"['B', 'W']",rare
+5,"Anhelo, the Painter",Legendary Creature — Vampire Assassin,2022-04-29,0.29,3.0,"['B', 'R', 'U']",mythic
+6,Anje Falkenrath,Legendary Creature — Vampire,2019-08-23,,3.0,"['B', 'R']",mythic
+7,"Anje, Maid of Dishonor",Legendary Creature — Vampire,2021-11-19,0.19,4.0,"['B', 'R']",rare
+8,Anje's Ravager,Creature — Vampire Berserker,2021-11-19,0.23,3.0,['R'],rare
+9,Anointed Deacon,Creature — Vampire Cleric,2017-09-29,0.05,5.0,['B'],common
+10,"Anowon, the Ruin Sage",Legendary Creature — Vampire Shaman,2021-11-19,1.09,5.0,['B'],rare
+11,"Anowon, the Ruin Thief",Legendary Creature — Vampire Rogue,2020-09-25,,4.0,"['B', 'U']",mythic
+12,Arrogant Bloodlord,Creature — Vampire Knight,2010-04-23,0.11,3.0,['B'],uncommon
+13,Arrogant Outlaw,Creature — Vampire Noble,2021-09-24,0.02,3.0,['B'],common
+14,Arrogant Vampire,Creature — Vampire,1997-05-01,0.25,5.0,['B'],uncommon
+15,Arvad the Cursed,Legendary Creature — Vampire Knight,2023-04-21,0.08,5.0,"['B', 'W']",uncommon
+16,Ascendant Evincar,Legendary Creature — Phyrexian Vampire Noble,2009-09-04,1.90,6.0,['B'],rare
+17,"Astarion, the Decadent",Legendary Creature — Vampire Elf Rogue,2022-06-10,0.55,6.0,"['B', 'W']",rare
+18,Asylum Visitor,Creature — Vampire Wizard,2019-08-23,0.24,2.0,['B'],rare
+19,Balustrade Spy,Creature — Vampire Rogue,2024-01-12,0.03,4.0,['B'],common
+20,Baron Bertram Graywater,Legendary Creature — Vampire Noble,2024-04-19,0.19,4.0,"['B', 'W']",uncommon
+21,Baron Sengir,Legendary Creature — Vampire Noble,1995-10-01,6.51,8.0,['B'],rare
+22,Barony Vampire,Creature — Vampire,2019-07-12,0.07,3.0,['B'],common
+23,Bartolomé del Presidio,Legendary Creature — Vampire Knight,2023-11-17,0.09,2.0,"['B', 'W']",uncommon
+24,Basilica Stalker,Creature — Vampire Detective,2024-02-09,0.02,6.0,['B'],common
+25,Bat Whisperer,Creature — Vampire,2021-09-24,0.02,4.0,['B'],common
+26,Belligerent Guest,Creature — Vampire,2021-11-19,0.02,3.0,['R'],common
+27,Bishop of Binding,Creature — Vampire Cleric,2018-01-19,0.19,4.0,['W'],rare
+28,Bishop of Rebirth,Creature — Vampire Cleric,2017-09-29,0.37,5.0,['W'],rare
+29,Bishop of the Bloodstained,Creature — Vampire Cleric,2017-09-29,0.08,5.0,['B'],uncommon
+30,Bishop's Soldier,Creature — Vampire Soldier,2024-11-15,,2.0,['W'],common
+31,Bleak Coven Vampires,Creature — Vampire Warrior,2010-10-01,0.07,5.0,['B'],common
+32,Blood Artist,Creature — Vampire,2024-09-27,2.30,2.0,['B'],uncommon
+33,Blood Bairn,Creature — Vampire,2017-06-09,0.16,3.0,['B'],common
+34,Blood Baron of Vizkopa,Creature — Vampire,2017-11-17,0.30,5.0,"['B', 'W']",rare
+35,Bloodbond Vampire,Creature — Vampire Shaman Ally,2020-07-17,0.07,4.0,['B'],uncommon
+36,Bloodborn Scoundrels,Creature — Vampire Rogue,2018-06-08,0.08,6.0,['B'],common
+37,Blood Burglar,Creature — Vampire Rogue,2019-07-12,0.04,2.0,['B'],common
+38,Bloodcrazed Neonate,Creature — Vampire,2011-09-30,0.06,2.0,['R'],common
+39,Bloodcrazed Paladin,Creature — Vampire Knight,2017-09-29,0.26,2.0,['B'],rare
+40,Bloodcrazed Socialite,Creature — Vampire,2021-11-19,0.02,4.0,['B'],common
+41,Blood-Cursed Knight,Creature — Vampire Knight,2015-07-17,0.13,3.0,"['B', 'W']",uncommon
+42,Bloodflow Connoisseur,Creature — Vampire,2022-07-08,0.06,3.0,['B'],common
+43,Bloodghast,Creature — Vampire Spirit,2023-11-17,5.73,2.0,['B'],rare
+44,Blood Glutton,Creature — Vampire,2020-07-03,0.04,5.0,['B'],common
+45,Bloodhall Priest,Creature — Vampire Cleric,2019-08-23,0.10,4.0,"['B', 'R']",rare
+46,Blood Host,Creature — Vampire,2020-07-17,0.07,5.0,['B'],uncommon
+47,Bloodhusk Ritualist,Creature — Vampire Shaman,2017-08-25,0.23,3.0,['B'],uncommon
+48,Blood Hustler,Creature — Vampire Rogue,2024-04-19,0.05,2.0,['B'],uncommon
+49,Blood Hypnotist,Creature — Vampire,2021-11-19,0.05,3.0,['R'],uncommon
+50,Bloodletter of Aclazotz,Creature — Vampire Demon,2023-11-17,40.35,4.0,['B'],mythic
+51,Bloodline Keeper // Lord of Lineage,Creature — Vampire // Creature — Vampire,2011-09-30,14.95,4.0,['B'],rare
+52,Bloodline Necromancer,Creature — Vampire Wizard,2023-11-17,0.11,5.0,['B'],uncommon
+53,Bloodlord of Vaasgoth,Creature — Vampire Warrior,2021-11-19,0.40,5.0,['B'],mythic
+54,Bloodmad Vampire,Creature — Vampire Berserker,2016-04-08,0.08,3.0,['R'],common
+55,Bloodmist Infiltrator,Creature — Vampire,2019-01-25,0.05,3.0,['B'],uncommon
+56,Blood Operative,Creature — Vampire Assassin,2018-10-05,0.14,3.0,['B'],rare
+57,Blood Petal Celebrant,Creature — Vampire,2021-11-19,0.03,2.0,['R'],common
+58,Bloodrage Vampire,Creature — Vampire,2013-03-15,0.16,3.0,['B'],common
+59,Blood Researcher,Creature — Vampire Druid,2021-04-23,0.05,3.0,"['B', 'G']",common
+60,Bloodrite Invoker,Creature — Vampire Shaman,2015-08-28,0.12,3.0,['B'],common
+61,Blood Seeker,Creature — Vampire Shaman,2024-09-27,0.22,2.0,['B'],common
+62,Bloodsworn Squire // Bloodsworn Knight,Creature — Vampire Soldier // Creature — Vampire Knight,2021-11-19,0.06,4.0,['B'],uncommon
+63,Bloodsworn Steward,Creature — Vampire Knight,2021-11-19,0.19,4.0,['R'],rare
+64,Bloodthirsty Adversary,Creature — Vampire,2024-04-19,0.33,2.0,['R'],mythic
+65,Bloodthirsty Aerialist,Creature — Vampire Rogue,2021-04-23,0.34,3.0,['B'],uncommon
+66,Bloodthirsty Conqueror,Creature — Vampire Knight,2024-11-15,25.22,5.0,['B'],mythic
+67,Bloodthrone Vampire,Creature — Vampire,2015-08-28,0.16,2.0,['B'],common
+68,Bloodtithe Collector,Creature — Vampire Noble,2021-09-24,0.03,5.0,['B'],uncommon
+69,Bloodtithe Harvester,Creature — Vampire,2021-11-19,0.22,2.0,"['B', 'R']",uncommon
+70,Bloodtracker,Creature — Vampire Wizard,2023-11-17,0.12,4.0,['B'],rare
+71,Blood Tyrant,Creature — Vampire,2017-06-16,0.36,7.0,"['B', 'R', 'U']",rare
+72,Bloodvial Purveyor,Creature — Vampire,2021-11-19,0.14,4.0,['B'],rare
+73,Bold Impaler,Creature — Vampire Knight,2016-07-22,0.04,1.0,['R'],common
+74,Bold Plagiarist,Creature — Vampire Rogue,2021-04-23,0.19,4.0,['B'],rare
+75,Bringer of the Last Gift,Creature — Vampire Demon,2023-11-17,0.19,8.0,['B'],rare
+76,Butcher of Malakir,Creature — Vampire Warrior,2023-11-17,0.27,7.0,['B'],rare
+77,Callous Bloodmage,Creature — Vampire Warlock,2021-04-23,0.17,3.0,['B'],rare
+78,Captivating Vampire,Creature — Vampire,2017-08-25,10.41,3.0,['B'],rare
+79,"Carmen, Cruel Skymarcher",Legendary Creature — Vampire Soldier,2023-11-17,1.88,5.0,"['B', 'W']",mythic
+80,Carrier Thrall,Creature — Vampire,2023-08-04,0.03,2.0,['B'],common
+81,Cemetery Gatekeeper,Creature — Vampire,2021-11-19,4.87,2.0,['R'],mythic
+82,Champion of Dusk,Creature — Vampire Knight,2023-11-17,0.17,5.0,['B'],rare
+83,Chancellor of the Dross,Creature — Phyrexian Vampire,2011-05-13,1.25,7.0,['B'],rare
+84,Charismatic Conqueror,Creature — Vampire Soldier,2023-11-17,26.85,2.0,['W'],rare
+85,Child of Night,Creature — Vampire,2020-07-17,0.07,2.0,['B'],common
+86,Chosen of Markov // Markov's Servant,Creature — Human // Creature — Vampire,2012-02-03,0.08,3.0,['B'],common
+87,Clandestine Meddler,Creature — Vampire Rogue,2024-02-09,0.02,3.0,['B'],uncommon
+88,"Clavileño, First of the Blessed",Legendary Creature — Vampire Cleric,2023-11-17,0.44,3.0,"['B', 'W']",mythic
+89,Cleric of Life's Bond,Creature — Vampire Cleric,2020-09-25,0.13,2.0,"['B', 'W']",uncommon
+90,Cliffhaven Vampire,Creature — Vampire Warrior Ally,2016-01-22,0.73,4.0,"['B', 'W']",uncommon
+91,Consuming Aetherborn,Creature — Aetherborn Vampire,2023-04-21,0.03,4.0,['B'],common
+92,Cordial Vampire,Creature — Vampire,2023-11-17,1.26,2.0,['B'],rare
+93,"Cormela, Glamour Thief",Legendary Creature — Vampire Rogue,2022-04-29,0.06,4.0,"['B', 'R', 'U']",uncommon
+94,Corpse Appraiser,Creature — Vampire Rogue,2022-04-29,0.03,3.0,"['B', 'R', 'U']",uncommon
+95,Creeping Bloodsucker,Creature — Vampire,2024-11-15,2.49,2.0,['B'],common
+96,Crimson Honor Guard,Creature — Vampire Knight,2021-11-19,0.10,5.0,['R'],rare
+97,Crossway Troublemakers,Creature — Vampire,2023-11-17,0.16,6.0,['B'],rare
+98,Crossway Vampire,Creature — Vampire,2011-09-30,0.09,3.0,['R'],common
+99,Crovax the Cursed,Legendary Creature — Vampire Noble,1998-03-02,1.07,4.0,['B'],rare
+100,Cruel Celebrant,Creature — Vampire,2023-11-17,2.11,2.0,"['B', 'W']",uncommon
+101,Cutthroat Contender,Creature — Vampire Warrior,2022-04-29,0.01,1.0,['B'],common
+102,Dark Impostor,Creature — Vampire Assassin,2021-11-19,0.39,3.0,['B'],rare
+103,Dashing Bloodsucker,Creature — Vampire Warrior,2024-09-27,0.03,4.0,['B'],uncommon
+104,Deadbeat Attendant,Creature — Vampire Employee,2022-10-07,0.04,2.0,['B'],common
+105,Deathless Ancient,Creature — Vampire Knight,2017-09-29,0.07,6.0,['B'],uncommon
+106,Defiant Bloodlord,Creature — Vampire,2021-04-23,0.17,7.0,['B'],rare
+107,Desperate Bloodseeker,Creature — Vampire,2024-04-19,0.02,2.0,['B'],common
+108,Discourtesy Clerk,Creature — Vampire Employee,2022-10-07,0.10,4.0,['B'],uncommon
+109,Dissatisfied Customer,Creature — Vampire Guest,2022-10-07,0.05,3.0,['B'],common
+110,Dominating Vampire,Creature — Vampire,2021-11-19,0.18,3.0,['R'],rare
+111,"Don Andres, the Renegade",Legendary Creature — Vampire Pirate,2023-11-17,0.40,4.0,"['B', 'R', 'U']",mythic
+112,Drana and Linvala,Legendary Creature — Vampire Angel,2023-04-21,3.81,4.0,"['B', 'W']",rare
+113,"Drana, Kalastria Bloodchief",Legendary Creature — Vampire Shaman,2017-08-25,0.38,5.0,['B'],rare
+114,"Drana, Liberator of Malakir",Legendary Creature — Vampire Ally,2023-11-17,0.52,3.0,['B'],mythic
+115,Drana's Chosen,Creature — Vampire Shaman Ally,2016-01-22,0.10,4.0,['B'],rare
+116,Drana's Emissary,Creature — Vampire Cleric Ally,2015-10-02,0.52,3.0,"['B', 'W']",uncommon
+117,Drana's Silencer,Creature — Vampire Rogue,2020-09-25,0.03,6.0,['B'],common
+118,"Drana, the Last Bloodchief",Legendary Creature — Vampire Cleric,2020-09-25,1.58,5.0,['B'],mythic
+119,Dreamdrinker Vampire,Creature — Vampire,2024-06-14,0.02,2.0,['B'],common
+120,Driver of the Dead,Creature — Vampire,2024-11-15,,4.0,['B'],common
+121,Duskborne Skymarcher,Creature — Vampire Cleric,2017-09-29,0.10,1.0,['W'],uncommon
+122,Dusk Feaster,Creature — Vampire,2016-07-22,0.10,7.0,['B'],uncommon
+123,Dusk Legion Duelist,Creature — Vampire Soldier,2023-04-21,0.38,2.0,['W'],rare
+124,Dusk Legion Sergeant,Creature — Vampire Soldier,2023-11-17,0.13,2.0,['B'],rare
+125,Dusk Legion Zealot,Creature — Vampire Soldier,2023-11-17,0.11,2.0,['B'],common
+126,Duskmantle Prowler,Creature — Vampire Rogue,2012-07-13,0.06,4.0,['B'],uncommon
+127,Duskmantle Seer,Creature — Vampire Wizard,2024-02-23,0.22,4.0,"['B', 'U']",mythic
+128,Echo of Dusk,Creature — Vampire Spirit,2023-11-17,0.02,2.0,['B'],common
+129,"Edgar, Charmed Groom // Edgar Markov's Coffin",Legendary Creature — Vampire Noble // Legendary Artifact,2021-11-19,2.60,4.0,"['B', 'W']",rare
+130,Edgar Markov,Legendary Creature — Vampire Knight,2025-01-24,,6.0,"['B', 'R', 'W']",mythic
+131,Elenda and Azor,Legendary Creature — Vampire Knight Sphinx,2023-04-21,0.38,6.0,"['B', 'U', 'W']",mythic
+132,"Elenda, Saint of Dusk",Legendary Creature — Vampire Knight,2024-11-15,1.38,4.0,"['B', 'W']",rare
+133,Elenda's Hierophant,Creature — Vampire Cleric,2023-11-17,6.96,3.0,['W'],rare
+134,"Elenda, the Dusk Rose",Legendary Creature — Vampire Knight,2023-11-17,3.31,4.0,"['B', 'W']",mythic
+135,Elusive Tormentor // Insidious Mist,Creature — Vampire Wizard // Creature — Elemental,2016-04-08,0.16,4.0,"['B', 'U']",rare
+136,Epicure of Blood,Creature — Vampire,2021-04-23,0.11,5.0,['B'],common
+137,Erdwal Ripper,Creature — Vampire,2012-02-03,0.06,3.0,['R'],common
+138,"Etrata, Deadly Fugitive",Legendary Creature — Vampire Assassin,2024-02-09,1.11,3.0,"['B', 'U']",mythic
+139,"Etrata, the Silencer",Legendary Creature — Vampire Assassin,2018-10-05,1.40,4.0,"['B', 'U']",rare
+140,"Evelyn, the Covetous",Legendary Creature — Vampire Rogue,2022-04-29,0.12,5.0,"['B', 'R', 'U']",rare
+141,"Evereth, Viceroy of Plunder",Legendary Creature — Vampire Soldier,2024-11-15,33.20,3.0,"['B', 'R']",rare
+142,Expedition Skulker,Creature — Vampire Rogue,2020-09-25,0.04,2.0,['B'],common
+143,Exsanguinator Cavalry,Creature — Vampire Knight,2023-04-21,0.69,3.0,['B'],rare
+144,Exultant Skymarcher,Creature — Vampire Soldier,2018-01-19,0.03,3.0,['W'],common
+145,Falkenrath Aristocrat,Creature — Vampire Noble,2020-08-07,0.29,4.0,"['B', 'R']",rare
+146,Falkenrath Celebrants,Creature — Vampire,2021-11-19,0.04,5.0,['R'],common
+147,Falkenrath Exterminator,Creature — Vampire Archer,2023-04-21,0.05,2.0,['R'],uncommon
+148,Falkenrath Forebear,Creature — Vampire,2021-11-19,0.18,3.0,['B'],rare
+149,Falkenrath Gorger,Creature — Vampire Berserker,2021-11-19,0.15,1.0,['R'],rare
+150,Falkenrath Marauders,Creature — Vampire Warrior,2011-09-30,0.20,5.0,['R'],rare
+151,Falkenrath Noble,Creature — Vampire Noble,2024-09-27,0.14,4.0,['B'],uncommon
+152,Falkenrath Perforator,Creature — Vampire,2021-09-24,0.03,2.0,['R'],common
+153,Falkenrath Pit Fighter,Creature — Vampire Warrior,2021-09-24,0.20,1.0,['R'],rare
+154,Falkenrath Reaver,Creature — Vampire,2017-04-15,0.03,2.0,['R'],common
+155,Falkenrath Torturer,Creature — Vampire,2012-02-03,0.03,3.0,['B'],common
+156,Famished Foragers,Creature — Vampire,2021-09-24,0.02,4.0,['R'],common
+157,Famished Paladin,Creature — Vampire Knight,2018-01-19,0.14,2.0,['W'],uncommon
+158,"Felisa, Fang of Silverquill",Legendary Creature — Vampire Wizard,2022-06-10,0.41,4.0,"['B', 'W']",mythic
+159,Fiend of the Shadows,Creature — Vampire Wizard,2021-07-23,0.17,5.0,['B'],rare
+160,"Florian, Voldaren Scion",Legendary Creature — Vampire Noble,2024-09-27,0.17,3.0,"['B', 'R']",rare
+161,Forerunner of the Legion,Creature — Vampire Knight,2018-01-19,0.70,3.0,['W'],uncommon
+162,"Fumulus, the Infestation",Legendary Creature — Vampire Insect,2024-11-15,13.77,4.0,['B'],rare
+163,Furyblade Vampire,Creature — Vampire Berserker,2016-07-22,0.13,2.0,['R'],uncommon
+164,"Garza Zol, Plague Queen",Legendary Creature — Vampire Noble,2006-07-21,1.08,7.0,"['B', 'R', 'U']",rare
+165,Gatekeeper of Malakir,Creature — Vampire Warrior,2024-11-15,,2.0,['B'],uncommon
+166,Ghalta and Mavren,Legendary Creature — Dinosaur Vampire,2023-04-21,2.20,7.0,"['G', 'W']",rare
+167,Gifted Aetherborn,Creature — Aetherborn Vampire,2020-07-17,0.35,2.0,['B'],uncommon
+168,Glamorous Outlaw,Creature — Vampire Rogue,2022-04-29,0.04,6.0,"['B', 'R', 'U']",common
+169,Glorifier of Dusk,Creature — Vampire Soldier,2024-02-23,0.04,5.0,['W'],uncommon
+170,Glorifier of Suffering,Creature — Vampire Soldier,2023-11-17,0.02,3.0,['W'],common
+171,Gluttonous Guest,Creature — Vampire,2021-11-19,0.02,3.0,['B'],common
+172,Guul Draz Assassin,Creature — Vampire Assassin,2010-04-23,1.94,1.0,['B'],rare
+173,Guul Draz Overseer,Creature — Vampire,2015-10-02,0.13,6.0,['B'],rare
+174,Guul Draz Vampire,Creature — Vampire Rogue,2009-10-02,0.20,1.0,['B'],common
+175,Havengul Vampire,Creature — Vampire,2016-08-26,0.08,4.0,['R'],uncommon
+176,Heir of Falkenrath // Heir to the Night,Creature — Vampire // Creature — Vampire Berserker,2016-04-08,0.14,2.0,['B'],uncommon
+177,Heirs of Stromkirk,Creature — Vampire,2012-05-04,0.05,4.0,['R'],common
+178,"Henrika Domnathi // Henrika, Infernal Seer",Legendary Creature — Vampire // Legendary Creature — Vampire,2021-11-19,0.57,4.0,['B'],mythic
+179,Highborn Vampire,Creature — Vampire Warrior,2020-09-25,0.05,4.0,['B'],common
+180,High-Society Hunter,Creature — Vampire Noble,2024-11-15,2.22,5.0,['B'],rare
+181,Ichor Drinker,Creature — Phyrexian Vampire,2023-04-21,0.05,1.0,['B'],common
+182,Immersturm Predator,Creature — Vampire Dragon,2024-11-15,0.62,4.0,"['B', 'R']",rare
+183,Incorrigible Youths,Creature — Vampire,2016-04-08,0.11,5.0,['R'],uncommon
+184,Indulgent Aristocrat,Creature — Vampire Noble,2023-11-17,0.14,1.0,['B'],uncommon
+185,Indulging Patrician,Creature — Vampire Noble,2020-07-03,0.67,3.0,"['B', 'W']",uncommon
+186,Innocent Traveler // Malicious Invader,Creature — Human // Creature — Vampire,2021-11-19,0.02,4.0,['B'],uncommon
+187,Insatiable Gorgers,Creature — Vampire Berserker,2016-07-22,0.11,4.0,['R'],uncommon
+188,Insolent Neonate,Creature — Vampire,2016-04-08,0.14,1.0,['R'],common
+189,Inspiring Cleric,Creature — Vampire Cleric,2017-09-29,0.06,3.0,['W'],uncommon
+190,Irini Sengir,Legendary Creature — Vampire Dwarf,1995-10-01,0.16,4.0,['B'],uncommon
+191,"Ivora, Insatiable Heir",Legendary Creature — Vampire Warrior,2024-11-15,2.11,2.0,['R'],uncommon
+192,"Jeleva, Nephalia's Scourge",Legendary Creature — Vampire Wizard,2013-11-01,1.17,4.0,"['B', 'R', 'U']",mythic
+193,Kalastria Healer,Creature — Vampire Cleric Ally,2015-10-02,0.06,2.0,['B'],common
+194,Kalastria Highborn,Creature — Vampire Shaman,2024-11-15,2.16,2.0,['B'],rare
+195,Kalastria Nightwatch,Creature — Vampire Warrior Ally,2020-07-17,0.03,5.0,['B'],common
+196,"Kalitas, Bloodchief of Ghet",Legendary Creature — Vampire Warrior,2009-10-02,4.52,7.0,['B'],mythic
+197,"Kalitas, Traitor of Ghet",Legendary Creature — Vampire Warrior,2016-01-22,5.30,4.0,['B'],mythic
+198,"Kamber, the Plunderer",Legendary Creature — Vampire Rogue,2024-04-19,0.09,4.0,['B'],rare
+199,"Kazarov, Sengir Pureblood",Legendary Creature — Vampire,2018-04-27,0.15,7.0,"['B', 'R']",rare
+200,Kheru Bloodsucker,Creature — Vampire,2014-09-26,0.08,3.0,['B'],uncommon
+201,Kheru Mind-Eater,Creature — Vampire,2017-08-25,0.67,3.0,['B'],rare
+202,Kinzu of the Bleak Coven,Legendary Creature — Phyrexian Vampire,2023-02-03,0.17,5.0,['B'],rare
+203,Knight of the Ebon Legion,Creature — Vampire Knight,2019-07-12,1.72,1.0,['B'],rare
+204,Krovikan Vampire,Creature — Vampire,1995-06-03,0.23,5.0,['B'],uncommon
+205,Leering Onlooker,Creature — Vampire,2024-02-09,0.03,2.0,['B'],uncommon
+206,Legion Conquistador,Creature — Vampire Soldier,2018-01-19,0.02,3.0,['W'],common
+207,Legion Lieutenant,Creature — Vampire Knight,2023-11-17,0.17,2.0,"['B', 'W']",uncommon
+208,Legion Vanguard,Creature — Vampire Soldier,2023-08-04,0.02,2.0,['B'],common
+209,"Licia, Sanguine Tribune",Legendary Creature — Vampire Soldier,2017-08-25,,8.0,"['B', 'R', 'W']",mythic
+210,"Lord Xander, the Collector",Legendary Creature — Vampire Demon Noble,2022-04-29,1.94,7.0,"['B', 'R', 'U']",mythic
+211,Maestros Diabolist,Creature — Vampire Warrior,2022-04-29,0.06,3.0,"['B', 'R', 'U']",rare
+212,Malakir Blood-Priest,Creature — Vampire Cleric,2022-06-10,0.02,2.0,['B'],common
+213,Malakir Bloodwitch,Creature — Vampire Shaman,2021-11-19,4.87,5.0,['B'],rare
+214,Malakir Cullblade,Creature — Vampire Warrior,2015-07-17,0.12,2.0,['B'],uncommon
+215,Malakir Soothsayer,Creature — Vampire Shaman Ally,2016-01-22,0.07,5.0,['B'],uncommon
+216,Marauding Blight-Priest,Creature — Vampire Cleric,2024-11-15,0.15,3.0,['B'],common
+217,"Mari, the Killing Quill",Legendary Creature — Vampire Assassin,2024-04-19,2.99,3.0,['B'],rare
+218,Markov Baron,Creature — Vampire Noble,2023-05-12,0.14,3.0,['B'],uncommon
+219,Markov Blademaster,Creature — Vampire Warrior,2012-02-03,0.35,3.0,['R'],rare
+220,Markov Crusader,Creature — Vampire Knight,2016-07-22,0.11,5.0,['B'],uncommon
+221,Markov Dreadknight,Creature — Vampire Knight,2016-04-08,0.15,5.0,['B'],rare
+222,Markov Enforcer,Creature — Vampire Soldier,2021-11-19,0.22,6.0,['R'],rare
+223,Markov Patrician,Creature — Vampire,2011-09-30,0.08,3.0,['B'],common
+224,Markov Purifier,Creature — Vampire Cleric,2021-11-19,0.13,3.0,"['B', 'W']",uncommon
+225,Markov Waltzer,Creature — Vampire,2021-11-19,0.06,4.0,"['R', 'W']",uncommon
+226,Markov Warlord,Creature — Vampire Warrior,2012-02-03,0.08,6.0,['R'],uncommon
+227,Marshland Bloodcaster,Creature — Vampire Warlock,2024-04-19,0.09,5.0,['B'],rare
+228,Martyr of Dusk,Creature — Vampire Soldier,2023-11-17,0.04,2.0,['W'],common
+229,Master of Dark Rites,Creature — Vampire Cleric,2023-11-17,4.84,1.0,['B'],rare
+230,"Mathas, Fiend Seeker",Legendary Creature — Vampire,2022-07-08,0.42,3.0,"['B', 'R', 'W']",rare
+231,"Mavren Fein, Dusk Apostle",Legendary Creature — Vampire Cleric,2023-11-17,0.22,3.0,['W'],rare
+232,Memory Vampire,Creature — Vampire Detective,2024-02-23,0.17,6.0,"['B', 'U']",rare
+233,Mephidross Vampire,Creature — Vampire,2004-06-04,3.20,6.0,['B'],rare
+234,Midnight Arsonist,Creature — Vampire,2021-11-19,0.12,4.0,['R'],rare
+235,Midnight Assassin,Creature — Vampire Assassin,2022-04-29,0.03,3.0,['B'],common
+236,"Mirko, Obsessive Theorist",Legendary Creature — Vampire Detective,2024-02-09,,3.0,"['B', 'U']",mythic
+237,"Mirko Vosk, Mind Drinker",Legendary Creature — Vampire,2013-05-03,0.66,5.0,"['B', 'U']",rare
+238,Mirri the Cursed,Legendary Creature — Vampire Cat,2021-03-19,0.36,4.0,['B'],rare
+239,"Monoxa, Midway Manager",Legendary Creature — Vampire Employee,2022-10-07,0.17,4.0,"['B', 'R']",uncommon
+240,Moroii,Creature — Vampire,2024-01-12,0.03,4.0,"['B', 'U']",uncommon
+241,Mounted Dreadknight,Creature — Vampire Knight,2021-09-24,0.04,5.0,['R'],common
+242,"Nazar, the Velvet Fang",Legendary Creature — Vampire Warlock,2024-11-15,1.81,4.0,['B'],uncommon
+243,Nearheath Stalker,Creature — Vampire Rogue,2012-02-03,0.05,5.0,['R'],common
+244,Necropolis Regent,Creature — Vampire,2021-11-19,0.46,6.0,['B'],mythic
+245,Nightdrinker Moroii,Creature — Vampire,2024-02-09,0.02,4.0,['B'],uncommon
+246,Nighthawk Scavenger,Creature — Vampire Rogue,2024-04-19,0.21,3.0,['B'],rare
+247,Night Revelers,Creature — Vampire,2011-09-30,0.09,5.0,['R'],common
+248,Nightveil Predator,Creature — Vampire,2024-01-12,0.05,4.0,"['B', 'U']",uncommon
+249,Nirkana Assassin,Creature — Vampire Assassin Ally,2015-10-02,0.04,3.0,['B'],common
+250,Nirkana Cutthroat,Creature — Vampire Warrior,2010-04-23,0.23,3.0,['B'],uncommon
+251,Nirkana Revenant,Creature — Vampire Shade,2021-11-19,6.37,6.0,['B'],mythic
+252,Nocturnal Feeder,Creature — Vampire Rogue,2020-07-17,0.03,3.0,['B'],common
+253,Nocturno of Myra's Marvels,Legendary Creature — Vampire Performer,2022-10-07,0.13,4.0,['B'],rare
+254,Null Caller,Creature — Vampire Shaman,2020-11-20,0.03,4.0,['B'],uncommon
+255,Nullpriest of Oblivion,Creature — Vampire Cleric,2024-11-15,0.78,2.0,['B'],rare
+256,Oathsworn Vampire,Creature — Vampire Knight,2023-11-17,0.06,2.0,['B'],uncommon
+257,"Odric, Blood-Cursed",Legendary Creature — Vampire Soldier,2021-11-19,0.08,3.0,"['R', 'W']",rare
+258,"Olivia, Crimson Bride",Legendary Creature — Vampire Noble,2021-11-19,4.90,6.0,"['B', 'R']",mythic
+259,"Olivia, Mobilized for War",Legendary Creature — Vampire Knight,2016-04-08,0.55,3.0,"['B', 'R']",mythic
+260,"Olivia, Opulent Outlaw",Legendary Creature — Vampire Assassin,2024-04-19,3.39,4.0,"['B', 'R', 'W']",mythic
+261,Olivia's Attendants,Creature — Vampire,2021-11-19,0.22,6.0,['R'],rare
+262,Olivia's Bloodsworn,Creature — Vampire Soldier,2016-04-08,0.18,2.0,"['B', 'R']",uncommon
+263,Olivia's Dragoon,Creature — Vampire Berserker,2018-12-07,0.04,2.0,['B'],common
+264,Olivia Voldaren,Legendary Creature — Vampire,2017-03-17,5.45,4.0,"['B', 'R']",mythic
+265,Order of Sacred Dusk,Creature — Vampire Knight,2023-11-17,0.14,8.0,"['B', 'W']",rare
+266,Paladin of Atonement,Creature — Vampire Knight,2018-01-19,0.20,2.0,['W'],rare
+267,Paladin of the Bloodstained,Creature — Vampire Knight,2017-09-29,0.03,4.0,['W'],common
+268,"Parnesse, the Subtle Brush",Legendary Creature — Vampire Wizard,2022-04-29,0.23,5.0,"['B', 'R', 'U']",mythic
+269,Patron of the Vein,Creature — Vampire Shaman,2023-11-17,0.18,6.0,['B'],rare
+270,Pawn of Ulamog,Creature — Vampire Shaman,2017-08-25,3.03,3.0,['B'],uncommon
+271,Pitiless Pontiff,Creature — Vampire Cleric,2019-01-25,0.09,2.0,"['B', 'W']",uncommon
+272,Preacher of the Schism,Creature — Vampire Cleric,2023-11-17,2.33,3.0,['B'],rare
+273,Pulse Tracker,Creature — Vampire Rogue,2024-11-15,2.17,1.0,['B'],common
+274,Quag Vampires,Creature — Vampire Rogue,2014-06-06,0.19,1.0,['B'],common
+275,Queen's Agent,Creature — Vampire Scout,2017-09-29,0.02,6.0,['B'],common
+276,Queen's Bay Paladin,Creature — Vampire Knight,2023-11-17,0.09,5.0,['B'],rare
+277,Queen's Bay Soldier,Creature — Vampire Soldier,2017-09-29,0.05,2.0,['B'],common
+278,Rabid Bloodsucker,Creature — Vampire,2015-07-17,0.06,5.0,['B'],common
+279,Radiant Epicure,Creature — Vampire Wizard,2021-06-18,0.03,5.0,['B'],uncommon
+280,Rakish Heir,Creature — Vampire,2021-11-19,0.19,3.0,['R'],uncommon
+281,Ravenous Bloodseeker,Creature — Vampire Berserker,2016-04-08,0.04,2.0,['R'],uncommon
+282,Ravenous Vampire,Creature — Vampire,1996-10-08,0.16,5.0,['B'],uncommon
+283,"Rayami, First of the Fallen",Legendary Creature — Vampire,2019-08-23,,4.0,"['B', 'G', 'U']",mythic
+284,Redemption Choir,Creature — Vampire Cleric,2023-11-17,0.16,4.0,['W'],rare
+285,Regal Bloodlord,Creature — Vampire Soldier,2018-07-13,0.18,5.0,"['B', 'W']",uncommon
+286,Repentant Vampire,Creature — Vampire,2001-10-01,0.28,5.0,['B'],rare
+287,Restless Bloodseeker // Bloodsoaked Reveler,Creature — Vampire // Creature — Vampire,2021-11-19,0.10,2.0,['B'],uncommon
+288,Rodolf Duskbringer,Legendary Creature — Vampire Angel,2024-11-15,6.50,6.0,"['B', 'W']",rare
+289,Rooftop Assassin,Creature — Vampire Assassin,2024-04-19,0.05,4.0,['B'],common
+290,"Runo Stromkirk // Krothuss, Lord of the Deep",Legendary Creature — Vampire Cleric // Legendary Creature — Kraken Horror,2021-11-19,0.19,3.0,"['B', 'U']",rare
+291,Ruthless Cullblade,Creature — Vampire Warrior,2010-02-05,0.09,2.0,['B'],common
+292,Ruthless Lawbringer,Creature — Vampire Assassin,2024-04-19,0.16,3.0,"['B', 'W']",uncommon
+293,Sadistic Skymarcher,Creature — Vampire Soldier,2018-01-19,0.08,3.0,['B'],uncommon
+294,Sanctum Seeker,Creature — Vampire Knight,2023-11-17,0.18,4.0,['B'],rare
+295,Sangromancer,Creature — Vampire Shaman,2021-04-23,0.81,4.0,['B'],rare
+296,Sanguinary Mage,Creature — Vampire Wizard,2016-04-08,0.04,2.0,['R'],common
+297,Sanguine Evangelist,Creature — Vampire Cleric,2023-11-17,0.59,3.0,['W'],rare
+298,Sanguine Glorifier,Creature — Vampire Cleric,2018-01-19,0.07,4.0,['W'],common
+299,Sanguine Savior,Creature — Vampire Cleric,2024-02-09,0.04,3.0,"['B', 'W']",common
+300,Sanguine Sipper,Creature — Vampire Guest,2022-10-07,0.02,2.0,['W'],common
+301,Sanguine Spy,Creature — Vampire Rogue,2022-04-29,0.15,3.0,['B'],rare
+302,Sanguine Syphoner,Creature — Vampire Warlock,2024-11-15,0.22,2.0,['B'],common
+303,Savage Gorger,Creature — Vampire,2019-07-12,0.78,3.0,['B'],common
+304,Scampire,Creature — Vampire Employee,2022-10-07,0.02,3.0,['B'],uncommon
+305,Scion of Opulence,Creature — Vampire Noble,2021-11-19,0.21,3.0,['R'],rare
+306,Scion of the Swarm,Creature — Vampire Cleric,2020-09-25,0.06,5.0,['B'],uncommon
+307,Scourge of the Undercity,Creature — Gorgon Vampire,2024-11-15,0.87,2.0,['B'],common
+308,Screeching Bat // Stalking Vampire,Creature — Bat // Creature — Vampire,2011-09-30,0.12,3.0,['B'],uncommon
+309,Sengir Connoisseur,Creature — Vampire,2022-09-09,0.02,5.0,['B'],uncommon
+310,Sengir Nosferatu,Creature — Vampire,2021-03-19,0.12,5.0,['B'],rare
+311,"Sengir, the Dark Baron",Legendary Creature — Vampire Noble,2020-11-20,0.17,6.0,['B'],rare
+312,Sengir Vampire,Creature — Vampire,2020-07-17,0.04,5.0,['B'],uncommon
+313,Shadow Alley Denizen,Creature — Vampire Rogue,2024-01-12,0.06,1.0,['B'],common
+314,Shadowcloak Vampire,Creature — Vampire,2014-07-18,0.08,5.0,['B'],common
+315,Shadow Stinger,Creature — Vampire Rogue,2020-09-25,0.03,3.0,['B'],uncommon
+316,"Shauku, Endbringer",Legendary Creature — Vampire,1996-10-08,2.23,7.0,['B'],rare
+317,Silverquill Pledgemage,Creature — Vampire Cleric,2021-04-23,0.06,3.0,"['B', 'W']",common
+318,Silversmote Ghoul,Creature — Zombie Vampire,2021-04-23,0.16,3.0,['B'],uncommon
+319,Skeletal Vampire,Creature — Vampire Skeleton,2017-08-25,0.28,6.0,['B'],rare
+320,Skulking Killer,Creature — Vampire Assassin,2021-11-19,0.03,4.0,['B'],uncommon
+321,Skyblade of the Legion,Creature — Vampire Soldier,2017-09-29,0.02,2.0,['W'],common
+322,Skymarch Bloodletter,Creature — Vampire Soldier,2018-07-13,0.02,3.0,['B'],common
+323,Skymarcher Aspirant,Creature — Vampire Soldier,2018-01-19,0.08,1.0,['W'],uncommon
+324,Skyshroud Vampire,Creature — Vampire,1997-10-14,0.19,5.0,['B'],uncommon
+325,Slaughter Specialist,Creature — Vampire Warrior,2021-09-24,0.41,2.0,['B'],rare
+326,Sorin's Guide,Creature — Vampire,2019-07-12,0.22,5.0,['B'],rare
+327,Soul Collector,Creature — Vampire,2006-10-06,0.46,5.0,['B'],special
+328,Stalking Bloodsucker,Creature — Vampire,2001-10-01,0.32,6.0,['B'],rare
+329,Stensia Innkeeper,Creature — Vampire,2016-07-22,0.05,4.0,['R'],common
+330,"Strefan, Maurer Progenitor",Legendary Creature — Vampire Noble,2021-11-19,0.42,4.0,"['B', 'R']",mythic
+331,Stromkirk Bloodthief,Creature — Vampire Rogue,2021-09-24,0.04,3.0,['B'],uncommon
+332,Stromkirk Captain,Creature — Vampire Soldier,2021-11-19,0.23,3.0,"['B', 'R']",uncommon
+333,Stromkirk Condemned,Creature — Vampire Horror,2021-11-19,0.09,2.0,['B'],rare
+334,Stromkirk Mentor,Creature — Vampire Soldier,2016-04-08,0.08,4.0,['B'],common
+335,Stromkirk Noble,Creature — Vampire Noble,2024-11-15,2.20,1.0,['R'],rare
+336,Stromkirk Occultist,Creature — Vampire Horror,2021-11-19,0.12,3.0,['R'],rare
+337,Stromkirk Patrol,Creature — Vampire Soldier,2016-08-26,0.03,5.0,['B'],common
+338,Syndicate Infiltrator,Creature — Vampire Wizard,2022-04-29,0.02,4.0,"['B', 'U']",uncommon
+339,"Szadek, Lord of Secrets",Legendary Creature — Vampire,2018-06-08,0.32,7.0,"['B', 'U']",rare
+340,Tenured Inkcaster,Creature — Vampire Warlock,2024-04-19,0.05,5.0,['B'],uncommon
+341,The Haunt of Hightower,Legendary Creature — Vampire,2024-08-02,1.50,6.0,['B'],mythic
+342,Thief of Blood,Creature — Vampire,2017-06-09,2.37,6.0,['B'],uncommon
+343,Thirsting Bloodlord,Creature — Vampire,2019-07-12,1.45,4.0,['B'],uncommon
+344,Throatseeker,Creature — Vampire Ninja,2019-06-14,0.17,3.0,['B'],uncommon
+345,"Timothar, Baron of Bats",Legendary Creature — Vampire Noble,2023-11-17,0.18,6.0,['B'],mythic
+346,Tithe Drinker,Creature — Vampire,2017-08-25,0.30,2.0,"['B', 'W']",common
+347,Treacherous Vampire,Creature — Vampire,2002-05-27,0.18,5.0,['B'],uncommon
+348,Twilight Prophet,Creature — Vampire Cleric,2024-02-09,1.29,4.0,['B'],mythic
+349,Twins of Maurer Estate,Creature — Vampire,2018-12-07,0.07,5.0,['B'],common
+350,Unholy Officiant,Creature — Vampire Cleric,2021-11-19,0.02,1.0,['W'],common
+351,"Vadmir, New Blood",Legendary Creature — Vampire Rogue,2024-04-19,0.18,2.0,['B'],rare
+352,"Valentin, Dean of the Vein // Lisette, Dean of the Root",Legendary Creature — Vampire Warlock // Legendary Creature — Human Druid,2021-04-23,0.31,1.0,"['B', 'G']",rare
+353,Vampire Aristocrat,Creature — Vampire Rogue Noble,2017-03-17,0.10,3.0,['B'],common
+354,Vampire Champion,Creature — Vampire Soldier,2018-01-19,0.17,4.0,['B'],common
+355,Vampire Charmseeker,Creature — Vampire Wizard,2018-06-08,0.14,8.0,"['B', 'U']",uncommon
+356,Vampire Cutthroat,Creature — Vampire Rogue,2016-07-22,0.64,1.0,['B'],uncommon
+357,Vampire Envoy,Creature — Vampire Cleric Ally,2016-01-22,0.05,3.0,['B'],common
+358,Vampire Gourmand,Creature — Vampire,2024-11-15,0.27,2.0,['B'],uncommon
+359,Vampire Hexmage,Creature — Vampire Shaman,2020-08-07,0.38,2.0,['B'],uncommon
+360,Vampire Hounds,Creature — Vampire Dog,1998-06-15,0.14,3.0,['B'],common
+361,Vampire Interloper,Creature — Vampire Scout,2021-09-24,0.03,2.0,['B'],common
+362,Vampire Lacerator,Creature — Vampire Warrior,2018-03-16,0.06,1.0,['B'],common
+363,Vampire Neonate,Creature — Vampire,2020-07-17,0.11,1.0,['B'],common
+364,Vampire Nighthawk,Creature — Vampire Shaman,2024-11-15,0.18,3.0,['B'],uncommon
+365,Vampire Noble,Creature — Vampire Noble,2016-04-08,0.10,3.0,['B'],common
+366,Vampire Nocturnus,Creature — Vampire,2012-07-13,5.39,4.0,['B'],mythic
+367,Vampire of the Dire Moon,Creature — Vampire,2019-07-12,1.73,1.0,['B'],uncommon
+368,Vampire Opportunist,Creature — Vampire,2019-07-12,0.26,2.0,['B'],common
+369,Vampire Outcasts,Creature — Vampire,2015-05-22,0.09,4.0,['B'],uncommon
+370,Vampire Revenant,Creature — Vampire Spirit,2018-01-19,0.06,4.0,['B'],common
+371,Vampire Scrivener,Creature — Vampire Warlock,2022-04-29,0.07,5.0,['B'],uncommon
+372,Vampire Socialite,Creature — Vampire Noble,2021-09-24,0.18,2.0,"['B', 'R']",uncommon
+373,Vampire Soulcaller,Creature — Vampire Warlock,2024-11-15,0.23,5.0,['B'],common
+374,Vampire Sovereign,Creature — Vampire Noble,2022-07-08,0.06,5.0,['B'],common
+375,Vampire Spawn,Creature — Vampire,2021-07-23,0.06,3.0,['B'],common
+376,Vampire Warlord,Creature — Vampire Warrior,2013-07-19,0.09,5.0,['B'],uncommon
+377,Vampiric Dragon,Creature — Vampire Dragon,2021-11-19,0.22,8.0,"['B', 'R']",rare
+378,Vanguard of the Rose,Creature — Vampire Knight,2023-11-17,0.03,2.0,['W'],uncommon
+379,Vein Drinker,Creature — Vampire,2017-08-25,0.23,6.0,"['B', 'R']",rare
+380,Vein Ripper,Creature — Vampire Assassin,2024-02-09,10.02,6.0,['B'],mythic
+381,Veinwitch Coven,Creature — Vampire Warlock,2024-04-19,0.26,3.0,['B'],rare
+382,Vengeant Vampire,Creature — Vampire,2018-11-16,,6.0,['B'],rare
+383,Vengeful Bloodwitch,Creature — Vampire Warlock,2024-11-15,0.44,2.0,['B'],uncommon
+384,Vengeful Vampire,Creature — Vampire,2012-02-03,0.07,6.0,['B'],uncommon
+385,Vermin Gorger,Creature — Vampire,2021-06-18,0.03,2.0,['B'],common
+386,"Verrak, Warped Sengir",Legendary Creature — Vampire,2022-09-09,0.15,3.0,"['B', 'W']",rare
+387,Vicious Conquistador,Creature — Vampire Soldier,2017-09-29,0.17,1.0,['B'],uncommon
+388,Vindictive Vampire,Creature — Vampire,2024-02-23,0.17,4.0,['B'],uncommon
+389,Viscera Seer,Creature — Vampire Wizard,2023-11-17,0.85,1.0,['B'],common
+390,"Vish Kal, Blood Arbiter",Legendary Creature — Vampire,2020-08-07,0.72,7.0,"['B', 'W']",rare
+391,"Vito, Fanatic of Aclazotz",Legendary Creature — Vampire Demon,2023-11-17,0.54,4.0,"['B', 'W']",mythic
+392,Vito's Inquisitor,Creature — Vampire Knight,2023-11-17,0.02,4.0,['B'],common
+393,"Vito, Thorn of the Dusk Rose",Legendary Creature — Vampire Cleric,2020-07-03,6.40,3.0,['B'],rare
+394,Vizkopa Vampire,Creature — Vampire,2024-02-23,0.09,3.0,"['B', 'W']",common
+395,Voldaren Ambusher,Creature — Vampire Archer,2021-09-24,0.04,3.0,['R'],uncommon
+396,Voldaren Bloodcaster // Bloodbat Summoner,Creature — Vampire Wizard // Creature — Vampire Wizard,2021-11-19,0.24,2.0,['B'],rare
+397,Voldaren Duelist,Creature — Vampire Warrior,2019-11-15,0.15,4.0,['R'],common
+398,Voldaren Epicure,Creature — Vampire,2021-11-19,0.21,1.0,['R'],common
+399,Voldaren Pariah // Abolisher of Bloodlines,Creature — Vampire Horror // Creature — Eldrazi Vampire,2016-07-22,0.43,5.0,['B'],rare
+400,Voldaren Stinger,Creature — Vampire Warrior,2021-09-24,0.03,1.0,['R'],common
+401,Voldaren Thrillseeker,Creature — Vampire Warrior,2023-04-21,0.27,3.0,['R'],rare
+402,"Vona, Butcher of Magan",Legendary Creature — Vampire Knight,2023-11-17,0.21,5.0,"['B', 'W']",mythic
+403,Voracious Vampire,Creature — Vampire Knight,2018-01-19,0.03,3.0,['B'],common
+404,"Vraan, Executioner Thane",Legendary Creature — Phyrexian Vampire,2023-02-03,0.45,2.0,['B'],rare
+405,Vraska's Conquistador,Creature — Vampire Soldier,2018-01-19,0.06,2.0,['B'],uncommon
+406,Wedding Security,Creature — Vampire Soldier,2021-11-19,0.02,5.0,['B'],uncommon
+407,Weirded Vampire,Creature — Vampire Horror,2016-07-22,0.13,4.0,['B'],common
+408,Welcoming Vampire,Creature — Vampire,2024-02-09,1.57,3.0,['W'],rare
+409,Westgate Regent,Creature — Vampire,2021-07-23,0.17,5.0,['B'],rare
+410,Whispering Snitch,Creature — Vampire Rogue,2024-02-09,0.04,2.0,['B'],uncommon
+411,Wispdrinker Vampire,Creature — Vampire Rogue,2024-02-09,0.16,4.0,"['B', 'W']",uncommon
+412,"Yahenni, Undying Partisan",Legendary Creature — Aetherborn Vampire,2023-11-17,0.80,3.0,['B'],rare
+413,"Zagras, Thief of Heartbeats",Legendary Creature — Vampire Rogue,2020-09-25,0.22,6.0,"['B', 'R']",rare

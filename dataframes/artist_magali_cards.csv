@@ -1,0 +1,213 @@
+,card_name,card_type,release,usd_price,cmc,color_identity,rarity
+0,Academy Journeymage,Creature — Human Wizard,2018-04-27,0.02,5.0,['U'],common
+1,Act of Heroism,Instant,2018-03-16,0.03,2.0,['W'],common
+2,Alseid of Life's Bounty,Enchantment Creature — Nymph,2020-01-24,0.29,1.0,['W'],uncommon
+3,Ancestral Mask,Enchantment — Aura,2016-06-10,1.93,3.0,['G'],uncommon
+4,Angel,Token Creature — Angel,2024-09-27,,0.0,['W'],common
+5,Angel // Angel,Token Creature — Angel // Token,2017-12-08,,0.0,['W'],common
+6,"Anikthea, Hand of Erebos",Legendary Enchantment Creature — Demigod,2023-08-04,,5.0,"['B', 'G', 'W']",mythic
+7,"Anikthea, Hand of Erebos // Anikthea, Hand of Erebos",Card // Card,2023-08-04,,0.0,[],common
+8,"Anowon, the Ruin Thief",Legendary Creature — Vampire Rogue,2020-09-25,,4.0,"['B', 'U']",mythic
+9,"Anowon, the Ruin Thief // Anowon, the Ruin Thief",Card // Card,2020-09-25,,0.0,[],common
+10,"Aragorn and Arwen, Wed",Legendary Creature — Human Elf Noble,2023-06-23,,6.0,"['G', 'W']",mythic
+11,"Aragorn and Arwen, Wed // Aragorn and Arwen, Wed",Card // Card,2023-06-23,,0.0,[],common
+12,Attendant of Vraska,Creature — Zombie Soldier,2018-10-05,0.16,3.0,"['B', 'G']",uncommon
+13,Ballot Broker,Creature — Human Advisor,2016-08-26,0.16,3.0,['W'],common
+14,Baral and Kari Zev,Legendary Creature — Human,2023-04-21,0.12,3.0,"['R', 'U']",rare
+15,Behold the Multiverse,Instant,2021-02-05,0.17,4.0,['U'],common
+16,Behold the Multiverse // Behold the Multiverse,Card // Card,2021-02-05,,0.0,[],common
+17,Belle of the Brawl,Creature — Human Knight,2019-10-04,0.12,3.0,['B'],uncommon
+18,Beneath the Sands,Sorcery,2017-07-14,0.05,3.0,['G'],common
+19,Bloodstone Goblin,Creature — Goblin Warrior,2018-04-27,0.03,2.0,['R'],common
+20,Bloodtracker,Creature — Vampire Wizard,2023-11-17,0.12,4.0,['B'],rare
+21,By Force,Sorcery,2017-04-28,0.34,1.0,['R'],uncommon
+22,"Calix, Destiny's Hand",Legendary Planeswalker — Calix,2023-08-04,0.52,4.0,"['G', 'W']",mythic
+23,Call the Bloodline,Enchantment,2016-04-15,,2.0,['B'],rare
+24,Captain Sisay,Legendary Creature — Human Soldier,2020-03-08,,4.0,"['G', 'W']",mythic
+25,Cast Out,Enchantment,2024-09-27,0.05,4.0,['W'],uncommon
+26,"Chandra, Flame's Fury",Legendary Planeswalker — Chandra,2019-07-12,,6.0,['R'],mythic
+27,"Chandra, Torch of Defiance",Legendary Planeswalker — Chandra,2023-08-04,1.78,4.0,['R'],mythic
+28,"Chandra, Torch of Defiance Emblem",Emblem — Chandra,2023-08-04,,0.0,[],common
+29,Citywatch Sphinx,Creature — Sphinx,2018-10-05,0.03,6.0,['U'],uncommon
+30,Construct,Token Artifact Creature — Construct,2023-08-04,,0.0,[],common
+31,Corpse Churn,Instant,2020-11-20,0.02,2.0,['B'],common
+32,"Danitha, Benalia's Hope",Legendary Creature — Human Knight,2022-09-09,1.09,5.0,['W'],rare
+33,"Danitha, Benalia's Hope // Danitha, Benalia's Hope",Card // Card,2022-09-09,,0.0,[],common
+34,Death's Shadow,Creature — Avatar,2022-04-11,8.62,1.0,['B'],rare
+35,Defiler of Faith,Creature — Phyrexian Human,2022-09-09,0.29,5.0,['W'],rare
+36,Destined // Lead,Instant // Sorcery,2017-04-28,0.08,6.0,"['B', 'G']",uncommon
+37,Dhund Operative,Creature — Human Rogue,2020-11-20,0.02,2.0,['B'],common
+38,Dive Down,Instant,2024-11-15,,1.0,['U'],common
+39,Druid of the Cowl,Creature — Elf Druid,2024-11-15,1.38,2.0,['G'],common
+40,Dulcet Sirens,Creature — Siren,2014-11-07,0.56,3.0,['U'],rare
+41,Elesh Norn // Elesh Norn,Card // Card,2023-04-21,,0.0,[],common
+42,Elesh Norn // The Argent Etchings,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,2023-04-21,5.58,4.0,['W'],mythic
+43,Elvish Mystic,Creature — Elf Druid,2022-04-11,10.23,1.0,['G'],rare
+44,"Éowyn, Fearless Knight",Legendary Creature — Human Knight,2023-06-23,0.68,4.0,"['R', 'W']",rare
+45,"Éowyn, Fearless Knight // Éowyn, Fearless Knight",Card // Card,2023-06-23,,0.0,[],common
+46,Eriette of the Charmed Apple,Legendary Creature — Human Warlock,2023-09-08,1.83,3.0,"['B', 'W']",mythic
+47,Exert Influence,Sorcery,2015-10-02,0.07,5.0,['U'],rare
+48,Fae of Wishes // Granted,Creature — Faerie Wizard // Sorcery — Adventure,2019-10-04,0.13,2.0,['U'],rare
+49,"Farideh, Devil's Chosen",Legendary Creature — Tiefling Warlock,2021-07-23,0.05,4.0,"['R', 'U']",uncommon
+50,"Farideh, Devil's Chosen // Farideh, Devil's Chosen",Card // Card,2021-07-23,,0.0,[],common
+51,Flood of Recollection,Sorcery,2020-11-20,0.03,2.0,['U'],common
+52,Forest,Basic Land — Forest,2022-09-09,0.96,0.0,['G'],common
+53,"Frodo, Determined Hero",Legendary Creature — Halfling Warrior,2023-06-23,0.49,2.0,['W'],rare
+54,"Fynn, the Fangbearer",Legendary Creature — Human Warrior,2023-10-02,28.84,2.0,['G'],rare
+55,Galadriel of Lothlórien,Legendary Creature — Elf Noble,2023-06-23,0.22,3.0,"['G', 'U']",rare
+56,Gandalf the White,Legendary Creature — Avatar Wizard,2023-06-23,3.69,5.0,['W'],mythic
+57,Gandalf the White // Gandalf the White,Card // Card,2023-06-23,,0.0,[],common
+58,Glacial Revelation,Sorcery,2019-06-14,0.08,3.0,['G'],uncommon
+59,"Glacian, Powerstone Engineer",Legendary Creature — Human Artificer,2020-11-20,0.03,6.0,['U'],uncommon
+60,Graceblade Artisan,Creature — Human Monk,2015-03-27,0.07,3.0,['W'],uncommon
+61,Guardians of Meletis,Artifact Creature — Golem,2015-07-17,0.05,3.0,[],common
+62,Halimar Tidecaller,Creature — Human Wizard Ally,2015-10-02,0.10,3.0,['U'],uncommon
+63,Healing Grace,Instant,2018-04-27,0.04,1.0,['W'],common
+64,"Heiko Yamazaki, the General",Legendary Creature — Human Samurai,2022-02-18,0.06,4.0,['R'],uncommon
+65,Heroes of Kamigawa,Legendary Planeswalker — Kaito Wanderer,2023-08-01,,4.0,"['B', 'U', 'W']",mythic
+66,"Hixus, Prison Warden",Legendary Creature — Human Soldier,2015-07-17,,5.0,['W'],rare
+67,Honored Hierarch,Creature — Human Druid,2015-07-17,,1.0,['G'],rare
+68,Hope Tender,Creature — Human Druid,2017-07-14,0.11,2.0,['G'],uncommon
+69,Huddle Up,Sorcery,2018-06-08,0.06,3.0,['U'],common
+70,Huntmaster of the Fells // Ravager of the Fells,Creature — Human Werewolf // Creature — Werewolf,2017-11-24,,4.0,"['G', 'R']",mythic
+71,Identity Thief,Creature — Shapeshifter,2022-04-29,0.12,4.0,['U'],rare
+72,Imaginary Threats,Instant,2017-07-14,0.04,4.0,['U'],uncommon
+73,Intrude on the Mind,Instant,2024-02-09,0.25,5.0,['U'],mythic
+74,Intrude on the Mind // Intrude on the Mind,Card // Card,2024-02-09,,0.0,[],common
+75,Invoke the Divine,Instant,2018-07-13,0.03,3.0,['W'],common
+76,Island,Basic Land — Island,2022-09-09,1.21,0.0,['U'],common
+77,Jaya Ballard,Legendary Planeswalker — Jaya,2021-04-23,0.31,5.0,['R'],mythic
+78,Jaya Ballard Emblem,Emblem — Jaya,2018-04-27,0.29,0.0,[],common
+79,Jhoira of the Ghitu,Legendary Creature — Human Wizard,2017-03-31,,3.0,"['R', 'U']",mythic
+80,Jirina Kudro,Legendary Creature — Human Soldier,2020-04-17,0.40,4.0,"['B', 'R', 'W']",mythic
+81,"Jorn, God of Winter // Jorn, God of Winter",Card // Card,2021-02-05,,0.0,[],common
+82,"Jorn, God of Winter // Kaldring, the Rimestaff",Legendary Snow Creature — God // Legendary Snow Artifact,2021-02-05,0.16,3.0,"['B', 'G', 'U']",rare
+83,"Kasmina, Enigmatic Mentor",Legendary Planeswalker — Kasmina,2019-05-03,0.14,4.0,['U'],uncommon
+84,"Kaya, Bane of the Dead",Legendary Planeswalker — Kaya,2019-05-03,0.14,6.0,"['B', 'W']",uncommon
+85,"Kaya, Spirits' Justice",Legendary Planeswalker — Kaya,2024-02-09,0.34,4.0,"['B', 'W']",mythic
+86,"Kellan, the Kid",Legendary Creature — Human Faerie Rogue,2024-04-19,0.90,3.0,"['G', 'U', 'W']",mythic
+87,"Kellan, the Kid // Kellan, the Kid",Card // Card,2024-04-19,,0.0,[],common
+88,"Kels, Fight Fixer",Legendary Creature — Azra Warlock,2020-07-17,0.18,4.0,"['B', 'U']",rare
+89,"Kiora, the Rising Tide",Legendary Creature — Merfolk Noble,2024-11-15,5.19,3.0,['U'],rare
+90,"Klothys, God of Destiny",Legendary Enchantment Creature — God,2020-01-24,3.04,3.0,"['G', 'R']",mythic
+91,Knight's Pledge,Enchantment — Aura,2018-07-13,0.03,2.0,['W'],common
+92,"Kopala, Warden of Waves",Legendary Creature — Merfolk Wizard,2023-11-17,0.16,3.0,['U'],rare
+93,"Leovold, Emissary of Trest",Legendary Creature — Elf Advisor,2018-12-07,8.91,3.0,"['B', 'G', 'U']",mythic
+94,"Licia, Sanguine Tribune",Legendary Creature — Vampire Soldier,2017-08-25,,8.0,"['B', 'R', 'W']",mythic
+95,"Liliana, Waker of the Dead",Legendary Planeswalker — Liliana,2020-07-03,5.82,4.0,['B'],mythic
+96,"Linvala, the Preserver",Legendary Creature — Angel,2016-01-22,0.42,6.0,['W'],mythic
+97,Maddening Cacophony,Sorcery,2020-09-25,4.01,2.0,['U'],rare
+98,Maddening Cacophony // Maddening Cacophony,Card // Card,2020-09-25,,0.0,[],common
+99,Make a Stand,Instant,2024-11-15,,3.0,['W'],uncommon
+100,Marina Vendrell,Legendary Creature — Human Warlock,2024-09-27,0.20,5.0,"['B', 'G', 'R', 'U', 'W']",rare
+101,Mina Harker // Mina Harker,Card // Card,2021-11-19,,0.0,[],common
+102,"Mirri, Weatherlight Duelist",Legendary Creature — Cat Warrior,2023-08-04,3.28,3.0,"['G', 'W']",rare
+103,"Mirri, Weatherlight Duelist // Mirri, Weatherlight Duelist",Card // Card,2023-08-04,,0.0,[],common
+104,Monastery Mentor,Creature — Human Monk,2022-07-08,3.95,3.0,['W'],mythic
+105,Monk,Token Creature — Monk,2015-01-01,25.11,0.0,['W'],common
+106,Mother of Runes,Creature — Human Cleric,2022-04-11,8.51,1.0,['W'],rare
+107,Mountain,Basic Land — Mountain,2022-09-09,0.97,0.0,['R'],common
+108,Mulldrifter,Creature — Elemental,2021-11-05,1.53,5.0,['U'],rare
+109,Nahiri's Binding,Enchantment — Aura,2020-09-25,0.05,3.0,['W'],common
+110,Nahiri's Binding // Nahiri's Binding,Card // Card,2020-09-25,,0.0,[],common
+111,"Narset, Enlightened Master",Legendary Creature — Human Monk,2023-08-04,0.24,6.0,"['R', 'U', 'W']",mythic
+112,"Narset, Parter of Veils",Legendary Planeswalker — Narset,2023-08-04,0.86,3.0,['U'],uncommon
+113,Narset Transcendent,Legendary Planeswalker — Narset,2015-03-27,5.62,4.0,"['U', 'W']",mythic
+114,Narset Transcendent Emblem,Emblem — Narset,2015-03-27,2.56,0.0,[],common
+115,Negate,Instant,2024-11-15,,2.0,['U'],common
+116,Neyith of the Dire Hunt,Legendary Creature — Human Warrior,2020-07-17,14.16,4.0,"['G', 'R']",rare
+117,"Nils, Discipline Enforcer",Legendary Creature — Human Cleric,2021-04-23,3.46,3.0,['W'],rare
+118,"Norika Yamazaki, the Poet",Legendary Creature — Human Samurai,2022-02-18,0.05,3.0,['W'],uncommon
+119,"Oko, the Ringleader",Legendary Planeswalker — Oko,2024-04-19,0.76,4.0,"['G', 'U']",mythic
+120,"Oko, the Ringleader // Oko, the Ringleader",Card // Card,2024-04-19,,0.0,[],common
+121,Order of Succession,Sorcery,2013-11-01,0.49,4.0,['U'],rare
+122,"Oviya Pashiri, Sage Lifecrafter",Legendary Creature — Human Artificer,2023-08-04,0.12,1.0,['G'],uncommon
+123,Painter's Servant,Artifact Creature — Scarecrow,2016-09-30,,2.0,[],special
+124,Patient Rebuilding,Enchantment,2018-07-13,0.59,5.0,['U'],rare
+125,Pieces of the Puzzle,Sorcery,2016-04-08,0.06,3.0,['U'],common
+126,Plains,Basic Land — Plains,2022-09-09,1.44,0.0,['W'],common
+127,Pore Over the Pages,Sorcery,2016-04-08,0.13,5.0,['U'],uncommon
+128,Primal Command,Sorcery,2015-08-28,0.62,5.0,['G'],rare
+129,Prying Eyes,Instant,2020-11-20,0.01,6.0,['U'],common
+130,Pyromancer's Gauntlet,Artifact,2023-10-25,,5.0,[],rare
+131,Pyromantic Pilgrim,Creature — Human Wizard,2018-04-27,0.06,3.0,['R'],common
+132,Quiet Contemplation,Enchantment,2014-09-26,0.07,3.0,['U'],uncommon
+133,"Ragavan, Nimble Pilferer",Legendary Creature — Monkey Pirate,2023-04-21,25.14,1.0,['R'],mythic
+134,"Ragavan, Nimble Pilferer // Ragavan, Nimble Pilferer",Card // Card,2023-04-21,,0.0,[],common
+135,Rakshasa's Secret,Sorcery,2014-09-26,0.02,3.0,['B'],common
+136,Rally of Wings,Instant,2019-05-03,0.13,2.0,['W'],uncommon
+137,"Rashmi, Eternities Crafter",Legendary Creature — Elf Druid,2024-09-27,0.17,4.0,"['G', 'U']",mythic
+138,Reaper of Flight Moonsilver,Creature — Angel,2016-04-08,0.05,5.0,['W'],uncommon
+139,"Rebbec, Architect of Ascension",Legendary Creature — Human Artificer,2020-11-20,0.17,4.0,['W'],uncommon
+140,Relentless Pursuit,Sorcery,2020-01-24,0.06,3.0,['G'],common
+141,Rishkar's Expertise,Sorcery,2023-11-17,1.61,6.0,['G'],rare
+142,"Rowan, Scholar of Sparks Emblem",Emblem,2021-04-23,,0.0,[],common
+143,"Rowan, Scholar of Sparks // Will, Scholar of Frost",Legendary Planeswalker — Rowan // Legendary Planeswalker — Will,2021-04-23,1.60,3.0,"['R', 'U']",mythic
+144,"Rowan, Scion of War",Legendary Creature — Human Wizard,2023-09-08,0.28,3.0,"['B', 'R']",mythic
+145,"Rowan, Scion of War // Rowan, Scion of War",Card // Card,2023-09-08,,0.0,[],common
+146,Sacred Foundry,Land — Mountain Plains,2021-04-26,25.37,0.0,"['R', 'W']",rare
+147,Scrapper Champion,Creature — Human Artificer,2017-01-20,0.05,4.0,['R'],uncommon
+148,Sculpting Steel,Artifact,2016-09-30,,3.0,[],special
+149,"Search for Azcanta // Azcanta, the Sunken Ruin",Legendary Enchantment // Legendary Land,2017-09-29,1.99,2.0,['U'],rare
+150,Seeker of Insight,Creature — Human Wizard,2017-04-28,0.02,2.0,['U'],common
+151,Seeker of the Way,Creature — Human Warrior,2015-07-17,,2.0,['W'],uncommon
+152,Seraph of the Scales,Creature — Angel,2024-02-23,0.19,4.0,"['B', 'W']",mythic
+153,Serene Steward,Creature — Human Cleric Ally,2015-10-02,0.11,2.0,['W'],uncommon
+154,Serra's Guardian,Creature — Angel,2019-07-12,0.30,6.0,['W'],rare
+155,Serra the Benevolent,Legendary Planeswalker — Serra,2019-06-14,8.72,4.0,['W'],mythic
+156,Serra the Benevolent Emblem,Emblem — Serra,2019-05-30,,0.0,[],common
+157,Serra the Benevolent // Serra the Benevolent,Card // Card,2019-06-05,,0.0,[],common
+158,Servant of the Conduit,Creature — Elf Druid,2016-09-30,0.05,2.0,['G'],uncommon
+159,"Shanna, Purifying Blade",Legendary Creature — Human Warrior,2022-09-09,0.32,3.0,"['G', 'U', 'W']",mythic
+160,"Shanna, Purifying Blade // Shanna, Purifying Blade",Card // Card,2022-09-09,,0.0,[],common
+161,"Shanna, Sisay's Legacy",Legendary Creature — Human Warrior,2018-04-27,0.17,2.0,"['G', 'W']",uncommon
+162,Shoreline Ranger,Creature — Bird Soldier Ranger,2018-03-16,0.04,6.0,['U'],common
+163,Silkweaver Elite,Creature — Elf Archer,2017-01-20,0.04,3.0,['G'],common
+164,Silvergill Adept,Creature — Merfolk Wizard,2018-01-19,0.20,2.0,['U'],uncommon
+165,Slash of Talons,Instant,2017-09-29,0.04,1.0,['W'],common
+166,Soldier,Token Creature — Soldier,2023-02-03,,0.0,['W'],common
+167,Start // Finish,Instant // Sorcery,2017-04-28,0.05,6.0,"['B', 'W']",uncommon
+168,"Storm, Force of Nature",Legendary Creature — Mutant Hero,2024-11-04,82.18,4.0,"['G', 'R', 'U']",mythic
+169,Stromkirk Condemned,Creature — Vampire Horror,2021-11-19,0.09,2.0,['B'],rare
+170,Stromkirk Occultist,Creature — Vampire Horror,2021-11-19,0.12,3.0,['R'],rare
+171,Swamp,Basic Land — Swamp,2022-09-09,1.07,0.0,['B'],common
+172,Swell of Growth,Instant,2015-10-02,0.08,2.0,['G'],common
+173,Sylvan Safekeeper,Creature — Human Wizard,2024-06-14,1.93,1.0,['G'],rare
+174,"Syr Armont, the Redeemer",Legendary Creature — Human Knight,2023-09-08,0.02,5.0,"['G', 'W']",uncommon
+175,"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo,2024-06-14,21.39,1.0,"['G', 'U']",mythic
+176,"Tamiyo, Seasoned Scholar",Emblem,2024-06-14,,0.0,[],common
+177,"Tana, the Bloodsower",Legendary Creature — Elf Druid,2016-11-11,,4.0,"['G', 'R']",mythic
+178,"Teferi, Temporal Pilgrim",Legendary Planeswalker — Teferi,2022-11-18,4.73,5.0,['U'],mythic
+179,Terrain Elemental,Creature — Elemental,2016-09-30,0.16,2.0,['G'],common
+180,"Teyo, the Shieldmage",Legendary Planeswalker — Teyo,2019-05-03,0.19,3.0,['W'],uncommon
+181,Teysa Karlov,Legendary Creature — Human Advisor,2023-08-04,0.96,4.0,"['B', 'W']",rare
+182,"Thalia, Guardian of Thraben",Legendary Creature — Human Soldier,2021-11-19,0.40,2.0,['W'],rare
+183,"Thalia, Guardian of Thraben // Thalia, Guardian of Thraben",Card // Card,2021-11-19,,0.0,[],common
+184,"Thalia, Heretic Cathar",Legendary Creature — Human Soldier,2016-07-22,4.04,3.0,['W'],rare
+185,The Huntsman's Redemption,Enchantment — Saga,2023-09-08,0.14,3.0,['G'],rare
+186,Thornmantle Striker,Creature — Elf Rogue,2021-02-05,0.11,5.0,['B'],uncommon
+187,Thoughtrender Lamia,Enchantment Creature — Lamia,2014-05-02,0.26,6.0,['B'],uncommon
+188,"Titania, Protector of Argoth",Legendary Creature — Elemental,2024-04-19,0.66,5.0,['G'],mythic
+189,Trueheart Duelist,Creature — Human Warrior,2017-04-28,0.20,2.0,['W'],uncommon
+190,Undercity Uprising,Sorcery,2018-10-05,0.07,4.0,"['B', 'G']",common
+191,Urbis Protector,Creature — Human Cleric,2018-03-16,0.04,6.0,['W'],uncommon
+192,Vanish into Eternity,Instant,2023-02-03,0.02,3.0,['W'],common
+193,Vanish into Eternity // Vanish into Eternity,Card // Card,2023-02-03,,0.0,[],common
+194,"Vihaan, Goldwaker",Legendary Creature — Dwarf Warlock,2024-04-19,,3.0,"['B', 'R', 'W']",mythic
+195,"Vivien, Champion of the Wilds",Legendary Planeswalker — Vivien,2022-06-10,0.73,3.0,['G'],rare
+196,Vivien of the Arkbow,Legendary Planeswalker — Vivien,2018-07-13,,6.0,['G'],mythic
+197,Vivien's Jaguar,Creature — Cat Spirit,2018-07-13,0.18,3.0,['G'],uncommon
+198,"Vraska, Golgari Queen",Legendary Planeswalker — Vraska,2018-10-05,3.09,4.0,"['B', 'G']",mythic
+199,"Vraska, Golgari Queen Emblem",Emblem — Vraska,2018-10-05,0.34,0.0,[],common
+200,"Vraska, Regal Gorgon",Legendary Planeswalker — Vraska,2018-10-05,,7.0,"['B', 'G']",mythic
+201,Warrior,Token Creature — Warrior,2022-09-09,,0.0,['W'],common
+202,War-Wing Siren,Creature — Siren Soldier,2014-05-02,0.06,3.0,['U'],common
+203,"Wayta, Trainer Prodigy",Legendary Creature — Human Warrior,2023-11-17,0.32,3.0,"['G', 'R', 'W']",mythic
+204,"Wayta, Trainer Prodigy // Wayta, Trainer Prodigy",Card // Card,2023-11-17,,0.0,[],common
+205,Weaponize the Monsters,Enchantment,2020-04-24,0.08,1.0,['R'],uncommon
+206,Weather the Storm,Instant,2019-06-14,0.44,2.0,['G'],common
+207,Wildfire Eternal,Creature — Zombie Jackal Cleric,2017-07-14,0.26,4.0,['R'],rare
+208,Wind Strider,Creature — Merfolk Wizard,2017-09-29,0.02,5.0,['U'],common
+209,"Winota, Joiner of Forces",Legendary Creature — Human Warrior,2020-04-24,4.33,4.0,"['R', 'W']",mythic
+210,Wizards,Card,2024-11-15,,0.0,[],rare
+211,"Zahid, Djinn of the Lamp",Legendary Creature — Djinn,2023-08-04,0.03,6.0,['U'],uncommon

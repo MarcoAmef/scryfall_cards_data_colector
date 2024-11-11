@@ -1,0 +1,299 @@
+,card_name,card_type,release,usd_price,cmc,color_identity,rarity
+0,Abuna Acolyte,Creature — Cat Cleric,2010-10-01,0.08,2.0,['W'],uncommon
+1,Adorable Kitten,Host Creature — Cat,2020-02-29,0.17,1.0,['W'],common
+2,Adorned Pouncer,Creature — Cat,2017-07-14,0.39,2.0,['W'],rare
+3,Aetherstream Leopard,Creature — Cat,2017-01-20,0.04,3.0,['G'],common
+4,"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani,2024-06-14,12.39,2.0,"['R', 'W']",mythic
+5,Ajani's Chosen,Creature — Cat Soldier,2020-07-17,0.31,4.0,['W'],rare
+6,Ajani's Pridemate,Creature — Cat Soldier,2024-11-15,0.44,2.0,['W'],uncommon
+7,Ajani's Sunstriker,Creature — Cat Cleric,2014-06-06,0.17,2.0,['W'],common
+8,Alms Collector,Creature — Cat Cleric,2023-08-04,0.31,4.0,['W'],rare
+9,Angelic Cub,Creature — Cat Angel,2024-11-15,,2.0,['W'],uncommon
+10,"Arahbo, Roar of the World",Legendary Creature — Cat Avatar,2017-08-25,,5.0,"['G', 'W']",mythic
+11,"Arahbo, the First Fang",Legendary Creature — Cat Avatar,2024-11-15,1.91,3.0,['W'],rare
+12,Arcbound Mouser,Artifact Creature — Cat,2021-06-18,0.04,1.0,['W'],common
+13,Arcbound Shikari,Artifact Creature — Cat Soldier,2021-06-18,0.07,3.0,"['R', 'W']",uncommon
+14,Arcbound Slasher,Artifact Creature — Cat,2021-06-18,0.04,5.0,['R'],common
+15,Arctic Nishoba,Creature — Cat Warrior,2006-07-21,0.14,6.0,"['G', 'W']",uncommon
+16,Armored Guardian,Creature — Cat Soldier,2000-10-02,0.27,5.0,"['U', 'W']",rare
+17,Armored Skyhunter,Creature — Cat Knight,2020-11-20,3.42,4.0,['W'],rare
+18,"Balan, Wandering Knight",Legendary Creature — Cat Knight,2023-08-04,0.49,4.0,['W'],rare
+19,Basri's Acolyte,Creature — Cat Cleric,2020-07-03,0.04,4.0,['W'],common
+20,Black Cat,Creature — Zombie Cat,2020-07-17,0.10,2.0,['B'],common
+21,Black Market Tycoon,Creature — Cat Rogue,2022-04-29,0.13,2.0,"['G', 'R']",rare
+22,Blade of the Sixth Pride,Creature — Cat Rebel,2021-03-19,0.05,2.0,['W'],common
+23,Blistering Firecat,Creature — Elemental Cat,2002-10-07,3.27,4.0,['R'],rare
+24,Bola Slinger,Creature — Cat Soldier,2023-04-21,0.05,4.0,['W'],common
+25,Bounding Felidar,Creature — Cat Beast Mount,2024-04-19,0.06,6.0,['W'],uncommon
+26,"Brimaz, Blight of Oreskos",Legendary Creature — Phyrexian Cat,2023-04-21,0.36,4.0,"['B', 'W']",mythic
+27,"Brimaz, King of Oreskos",Legendary Creature — Cat Soldier,2014-02-07,12.36,3.0,['W'],mythic
+28,Brokers Initiate,Creature — Cat Citizen,2022-04-29,0.02,1.0,"['G', 'U', 'W']",common
+29,Bronzehide Lion,Creature — Cat,2020-01-24,0.29,2.0,"['G', 'W']",rare
+30,Canopy Stalker,Creature — Cat,2020-07-03,0.04,4.0,['G'],uncommon
+31,Canyon Wildcat,Creature — Cat,2011-09-02,0.14,2.0,['R'],common
+32,Cat Warriors,Creature — Cat Warrior,1999-04-21,0.15,3.0,['G'],common
+33,Cauldron Familiar,Creature — Cat,2020-07-17,5.02,1.0,['B'],common
+34,Cave Tiger,Creature — Cat,1998-10-12,0.14,3.0,['G'],common
+35,Chandra's Embercat,Creature — Elemental Cat,2019-07-12,0.07,2.0,['R'],common
+36,Charmed Stray,Creature — Cat,2019-05-03,0.07,1.0,['W'],common
+37,Chartooth Cougar,Creature — Cat Beast,2018-03-16,0.03,6.0,['R'],common
+38,Chrome Cat,Artifact Creature — Cat,2022-04-29,0.02,3.0,[],common
+39,Chrome Prowler,Artifact Creature — Phyrexian Cat,2023-02-03,0.02,3.0,['U'],common
+40,Civil Servant,Creature — Cat Citizen,2022-04-29,0.06,2.0,"['G', 'W']",common
+41,Crazed Firecat,Creature — Elemental Cat,2002-02-04,0.29,7.0,['R'],uncommon
+42,Cubwarden,Creature — Cat,2020-04-24,0.25,4.0,['W'],rare
+43,Dawnwing Marshal,Creature — Cat Soldier,2024-11-15,0.94,2.0,['W'],uncommon
+44,"Denry Klin, Editor in Chief",Legendary Creature — Cat Advisor,2022-04-29,0.12,4.0,"['U', 'W']",rare
+45,Diamond Lion,Artifact Creature — Cat,2021-06-18,0.10,2.0,[],rare
+46,Displacer Beast,Creature — Cat Beast,2021-07-23,0.03,3.0,['U'],uncommon
+47,Displacer Kitten,Creature — Cat Beast,2022-06-10,12.57,4.0,['U'],rare
+48,Dreadmalkin,Creature — Zombie Cat,2024-01-12,0.05,1.0,['B'],uncommon
+49,Elite Cat Warrior,Creature — Cat Warrior,1997-05-01,0.42,3.0,['G'],common
+50,Enduring Curiosity,Enchantment Creature — Cat Glimmer,2024-09-27,5.90,4.0,['U'],rare
+51,Enlightened Ascetic,Creature — Cat Monk,2015-07-17,0.10,2.0,['W'],common
+52,Entrails Feaster,Creature — Zombie Cat,2002-10-07,0.40,1.0,['B'],rare
+53,Envoy of Okinec Ahau,Creature — Cat Advisor,2023-11-17,0.03,3.0,['W'],common
+54,"Falthis, Shadowcat Familiar",Legendary Creature — Nightmare Cat,2020-11-20,0.23,3.0,['B'],uncommon
+55,Felidar Cub,Creature — Cat Beast,2024-11-15,,2.0,['W'],common
+56,Felidar Guardian,Creature — Cat Beast,2017-01-20,3.89,4.0,['W'],uncommon
+57,Felidar Savior,Creature — Cat Beast,2024-11-15,0.56,4.0,['W'],common
+58,Felidar Sovereign,Creature — Cat Beast,2015-10-02,4.13,6.0,['W'],rare
+59,Feline Sovereign,Creature — Cat,2020-07-03,0.63,3.0,['G'],rare
+60,Feral Maaka,Creature — Cat,2019-01-25,0.02,2.0,['R'],common
+61,Feral Prowler,Creature — Cat,2020-07-17,0.04,2.0,['G'],common
+62,Ferocious Tigorilla,Creature — Cat Ape,2020-04-24,0.03,4.0,['R'],common
+63,Ferocious Zheng,Creature — Cat Beast,2018-06-22,0.10,4.0,['G'],common
+64,Fleecemane Lion,Creature — Cat,2021-07-23,0.23,2.0,"['G', 'W']",rare
+65,Fleetfoot Panther,Creature — Cat,2011-09-02,0.34,3.0,"['G', 'W']",uncommon
+66,Forum Familiar,Creature — Cat,2024-02-09,0.04,1.0,['W'],uncommon
+67,Freejam Regent,Creature — Cat Dragon,2017-01-20,0.10,6.0,['R'],rare
+68,Frenzied Arynx,Creature — Cat Beast,2019-01-25,0.02,4.0,"['G', 'R']",common
+69,Frondland Felidar,Creature — Cat Beast,2020-04-24,0.08,4.0,"['G', 'W']",rare
+70,Frost Lynx,Creature — Elemental Cat,2020-04-24,0.04,3.0,['U'],common
+71,Garrison Cat,Creature — Cat,2020-04-24,0.08,1.0,['W'],common
+72,Generous Stray,Creature — Cat,2018-10-05,0.10,3.0,['G'],common
+73,Glittering Lion,Creature — Cat,2000-06-05,0.17,3.0,['W'],uncommon
+74,Glittering Lynx,Creature — Cat,2000-06-05,0.20,1.0,['W'],common
+75,Gloomshrieker,Enchantment Creature — Cat Beast,2022-02-18,0.12,3.0,"['B', 'G']",uncommon
+76,Gods' Hall Guardian,Creature — Cat,2021-02-05,0.01,6.0,['W'],common
+77,Grabby Tabby,Creature — Cat Guest,2022-10-07,0.03,4.0,['G'],common
+78,Graceful Cat,Creature — Cat,2017-04-28,0.11,3.0,['W'],common
+79,Grizzled Leotau,Creature — Cat,2009-04-30,0.18,2.0,"['G', 'W']",common
+80,Guardian Lions,Creature — Cat,2012-07-13,0.07,5.0,['W'],common
+81,Guma,Creature — Cat,1998-10-12,0.20,3.0,['R'],uncommon
+82,"Half-Kitten, Half-",Creature — Cat,2017-12-08,0.18,0.0,['W'],uncommon
+83,Healer of the Pride,Creature — Cat Cleric,2012-07-13,0.25,4.0,['W'],uncommon
+84,Helpful Hunter,Creature — Cat,2024-11-15,0.30,2.0,['W'],common
+85,Herald of the Forgotten,Creature — Cat Beast,2020-04-17,0.09,8.0,['W'],rare
+86,Hero of the Pride,Creature — Cat Soldier,2020-01-24,0.04,2.0,['W'],common
+87,Highcliff Felidar,Creature — Cat Beast,2019-11-15,,7.0,['W'],mythic
+88,Horned Cheetah,Creature — Cat,2000-10-02,0.20,4.0,"['G', 'W']",uncommon
+89,Hungry Lynx,Creature — Cat,2017-08-25,1.79,2.0,['G'],rare
+90,Hunting Cheetah,Creature — Cat,1999-05-01,76.48,3.0,['G'],uncommon
+91,Huntmaster Liger,Creature — Cat,2020-04-24,0.06,4.0,['W'],uncommon
+92,Illusory Ambusher,Creature — Cat Illusion,2020-04-17,0.09,5.0,['U'],uncommon
+93,Ingenious Leonin,Creature — Cat Soldier,2024-11-15,,5.0,['W'],uncommon
+94,Initiate's Companion,Creature — Cat,2020-07-17,0.08,2.0,['G'],common
+95,Ironpaw Aspirant,Creature — Cat Warrior,2023-11-17,0.02,2.0,['W'],common
+96,Jamuraan Lion,Creature — Cat,1997-02-03,0.10,3.0,['W'],common
+97,"Jareth, Leonine Titan",Legendary Creature — Cat Giant,2018-06-08,0.41,6.0,['W'],rare
+98,Jazal Goldmane,Legendary Creature — Cat Warrior,2023-08-04,0.15,4.0,['W'],rare
+99,Jedit Ojanen,Legendary Creature — Cat Warrior,1994-06-01,6.33,7.0,"['U', 'W']",uncommon
+100,"Jedit Ojanen, Mercenary",Legendary Creature — Cat Mercenary,2022-09-09,0.27,3.0,"['G', 'U', 'W']",mythic
+101,Jedit Ojanen of Efrava,Legendary Creature — Cat Warrior,2017-08-25,1.10,6.0,['G'],rare
+102,Jedit's Dragoons,Creature — Cat Soldier,2012-03-30,0.12,6.0,['W'],common
+103,"Jermane, Pride of the Circus",Legendary Creature — Cat Performer,2022-10-07,0.08,2.0,['G'],rare
+104,"Jetmir, Nexus of Revels",Legendary Creature — Cat Demon,2022-04-29,8.08,4.0,"['G', 'R', 'W']",mythic
+105,Jetmir's Fixer,Creature — Cat Warrior,2022-04-29,0.02,2.0,"['G', 'R']",common
+106,Jewel Thief,Creature — Cat Rogue,2022-04-29,0.06,3.0,['G'],common
+107,Jhovall Queen,Creature — Cat Rebel,1999-10-04,0.58,6.0,['W'],rare
+108,Jungle Lion,Creature — Cat,1997-05-01,0.22,1.0,['G'],common
+109,"Kaheera, the Orphanguard",Legendary Creature — Cat Beast,2020-04-24,0.36,3.0,"['G', 'W']",rare
+110,Keeper of Fables,Creature — Cat,2020-09-25,0.23,5.0,['G'],uncommon
+111,"Kemba, Kha Enduring",Legendary Creature — Cat Cleric,2023-02-03,0.14,2.0,['W'],rare
+112,"Kemba, Kha Regent",Legendary Creature — Cat Cleric,2023-08-04,0.14,3.0,['W'],uncommon
+113,Kemba's Legion,Creature — Cat Soldier,2011-02-04,0.04,7.0,['W'],uncommon
+114,Kemba's Skyguard,Creature — Cat Knight,2010-10-01,0.10,3.0,['W'],common
+115,King Cheetah,Creature — Cat,2005-07-29,0.19,4.0,['G'],uncommon
+116,King of the Pride,Creature — Cat,2019-06-14,0.30,3.0,['W'],uncommon
+117,"Kitt Kanto, Mayhem Diva",Legendary Creature — Cat Bard Druid,2022-04-29,0.32,4.0,"['G', 'R', 'W']",mythic
+118,Krosan Vorine,Creature — Cat Beast,2003-02-03,0.11,4.0,['G'],common
+119,"Kros, Defense Contractor",Legendary Creature — Cat Advisor,2022-04-29,0.34,4.0,"['G', 'U', 'W']",mythic
+120,"Kutzil, Malamet Exemplar",Legendary Creature — Cat Warrior,2023-11-17,0.53,3.0,"['G', 'W']",uncommon
+121,Kutzil's Flanker,Creature — Cat Warrior,2023-11-17,0.53,3.0,['W'],rare
+122,Leonin Abunas,Creature — Cat Cleric,2020-08-07,4.29,4.0,['W'],rare
+123,Leonin Arbiter,Creature — Cat Cleric,2022-07-08,0.74,2.0,['W'],rare
+124,Leonin Armorguard,Creature — Cat Soldier,2009-04-30,0.07,4.0,"['G', 'W']",common
+125,Leonin Battlemage,Creature — Cat Wizard,2004-02-06,0.16,4.0,['W'],uncommon
+126,Leonin Den-Guard,Creature — Cat Soldier,2003-10-02,0.10,2.0,['W'],common
+127,Leonin Elder,Creature — Cat Cleric,2003-10-02,0.20,1.0,['W'],common
+128,Leonin Iconoclast,Creature — Cat Monk,2014-05-02,0.04,4.0,['W'],uncommon
+129,Leonin Lightbringer,Creature — Cat Rebel,2023-02-03,0.02,3.0,['W'],common
+130,Leonin Lightscribe,Creature — Cat Cleric,2021-04-23,0.29,2.0,['W'],rare
+131,Leonin of the Lost Pride,Creature — Cat Warrior,2020-01-24,0.03,2.0,['W'],common
+132,Leonin Relic-Warder,Creature — Cat Cleric,2017-08-25,0.39,2.0,['W'],uncommon
+133,Leonin Shikari,Creature — Cat Soldier,2017-08-25,3.44,2.0,['W'],rare
+134,Leonin Skyhunter,Creature — Cat Knight,2011-04-01,0.22,2.0,['W'],uncommon
+135,Leonin Snarecaster,Creature — Cat Soldier,2014-09-05,0.10,2.0,['W'],common
+136,Leonin Squire,Creature — Cat Soldier,2004-06-04,0.11,2.0,['W'],common
+137,Leonin Vanguard,Creature — Cat Soldier,2018-07-13,0.14,1.0,['W'],uncommon
+138,Leonin Warleader,Creature — Cat Soldier,2018-07-13,4.27,4.0,['W'],rare
+139,"Leori, Sparktouched Hunter",Legendary Creature — Elemental Cat,2023-08-04,,3.0,"['R', 'U', 'W']",mythic
+140,Liberated Livestock,Creature — Cat Bird Ox,2023-09-08,0.09,6.0,['W'],rare
+141,Lionheart Glimmer,Enchantment Creature — Cat Glimmer,2024-09-27,0.03,5.0,['W'],uncommon
+142,Lion Sash,Artifact Creature — Equipment Cat,2022-02-18,1.74,2.0,['W'],rare
+143,Loam Lion,Creature — Cat,2011-09-02,0.89,1.0,['W'],uncommon
+144,Longtusk Cub,Creature — Cat,2016-09-30,0.07,2.0,['G'],uncommon
+145,Lost Leonin,Creature — Phyrexian Cat Soldier,2011-05-13,0.27,2.0,['W'],common
+146,Lurking Arynx,Creature — Cat Beast,2015-03-27,0.03,5.0,['G'],uncommon
+147,Lurrus of the Dream-Den,Legendary Creature — Cat Nightmare,2020-04-24,0.95,3.0,"['B', 'W']",rare
+148,Lynx,Creature — Cat,1999-07-01,1.41,2.0,['G'],uncommon
+149,Mage's Attendant,Creature — Cat Rogue,2022-06-10,0.06,3.0,['W'],uncommon
+150,Malamet Brawler,Creature — Cat Warrior,2023-11-17,0.02,2.0,['G'],common
+151,Malamet Veteran,Creature — Cat Warrior,2023-11-17,0.01,5.0,['G'],common
+152,Malamet War Scribe,Creature — Cat Warrior,2023-11-17,0.04,5.0,['W'],uncommon
+153,Maned Serval,Creature — Cat,2020-04-24,0.04,2.0,['W'],common
+154,"Marisi, Breaker of the Coil",Legendary Creature — Cat Warrior,2019-08-23,,4.0,"['G', 'R', 'W']",mythic
+155,Marisi's Twinclaws,Creature — Cat Warrior,2011-09-02,0.29,4.0,"['G', 'R', 'W']",uncommon
+156,Mesa Lynx,Creature — Cat,2020-09-25,0.02,2.0,['W'],common
+157,"Mirri, Cat Warrior",Legendary Creature — Cat Warrior,2007-07-13,3.90,3.0,['G'],rare
+158,Mirri the Cursed,Legendary Creature — Vampire Cat,2021-03-19,0.36,4.0,['B'],rare
+159,"Mirri, Weatherlight Duelist",Legendary Creature — Cat Warrior,2023-08-04,3.28,3.0,"['G', 'W']",rare
+160,Mischievous Catgeist // Catlike Curiosity,Creature — Cat Spirit // Enchantment — Aura,2021-11-19,0.12,2.0,['U'],uncommon
+161,Mist Leopard,Creature — Cat,2009-07-17,0.06,4.0,['G'],common
+162,Mtenda Lion,Creature — Cat,1996-10-08,0.19,1.0,"['G', 'U']",common
+163,Myrkul's Invoker,Creature — Cat Rogue,2022-06-10,0.07,3.0,['B'],common
+164,Nacatl Hunt-Pride,Creature — Cat Warrior,2011-09-02,0.19,6.0,"['G', 'R', 'W']",uncommon
+165,Nacatl Outlander,Creature — Cat Scout,2009-02-06,0.09,2.0,"['G', 'R']",common
+166,Nacatl Savage,Creature — Cat Warrior,2009-02-06,0.06,2.0,['G'],common
+167,Nacatl War-Pride,Creature — Cat Warrior,2007-05-04,2.14,6.0,['G'],uncommon
+168,"Nazahn, Revered Bladesmith",Legendary Creature — Cat Artificer,2017-08-25,,6.0,"['G', 'W']",mythic
+169,Necropanther,Creature — Cat Nightmare,2020-04-24,0.07,3.0,"['B', 'W']",uncommon
+170,"Nethroi, Apex of Death",Legendary Creature — Cat Nightmare Beast,2022-09-09,0.26,5.0,"['B', 'G', 'W']",mythic
+171,Nine-Lives Familiar,Creature — Cat,2024-11-15,2.51,3.0,['B'],rare
+172,Nishoba Brawler,Creature — Cat Warrior,2022-09-09,0.14,2.0,['G'],uncommon
+173,Noble Panther,Creature — Cat,2000-10-02,0.32,3.0,"['G', 'W']",rare
+174,Nylea's Emissary,Enchantment Creature — Cat,2013-09-27,0.06,4.0,['G'],uncommon
+175,Ocelot Pride,Creature — Cat,2024-06-14,35.94,1.0,['W'],mythic
+176,Oreskos Explorer,Creature — Cat Scout,2023-08-04,0.10,2.0,['W'],uncommon
+177,Oreskos Sun Guide,Creature — Cat Monk,2014-02-07,0.09,2.0,['W'],common
+178,Oreskos Swiftclaw,Creature — Cat Warrior,2018-07-13,0.02,2.0,['W'],common
+179,Panther Warriors,Creature — Cat Warrior,1999-04-21,0.07,5.0,['G'],common
+180,Paper Tiger,Artifact Creature — Cat,2020-02-29,0.47,4.0,[],common
+181,Pardic Firecat,Creature — Elemental Cat,2001-10-01,0.09,4.0,['R'],common
+182,Patagia Tiger,Creature — Cat,2020-04-24,0.02,5.0,['W'],common
+183,Penumbra Bobcat,Creature — Cat,2023-01-13,0.03,3.0,['G'],common
+184,"Phabine, Boss's Confidant",Legendary Creature — Cat Advisor,2022-04-29,0.29,6.0,"['G', 'R', 'W']",mythic
+185,Phantom Nishoba,Creature — Cat Beast Spirit,2023-01-13,0.13,7.0,"['G', 'W']",rare
+186,Phantom Tiger,Creature — Cat Spirit,2017-11-17,0.08,3.0,['G'],common
+187,Pouncing Cheetah,Creature — Cat,2020-07-17,0.08,3.0,['G'],common
+188,Pouncing Jaguar,Creature — Cat,1998-10-12,0.23,1.0,['G'],common
+189,Pouncing Lynx,Creature — Cat,2019-05-03,0.04,2.0,['W'],common
+190,Prava of the Steel Legion,Legendary Creature — Cat Soldier,2020-11-20,0.23,3.0,['W'],uncommon
+191,Prideful Parent,Creature — Cat,2024-11-15,0.33,3.0,['W'],common
+192,Pride Guardian,Creature — Cat Monk,2014-06-06,0.15,1.0,['W'],common
+193,Pridemalkin,Creature — Cat,2023-04-21,0.10,3.0,['G'],common
+194,Pride of Lions,Creature — Cat,2011-09-02,0.22,5.0,['G'],uncommon
+195,Pride of the Clouds,Creature — Elemental Cat,2006-05-05,3.22,2.0,"['U', 'W']",rare
+196,Pride Sovereign,Creature — Cat,2017-07-14,3.25,3.0,"['G', 'W']",rare
+197,Progenitor Exarch,Creature — Phyrexian Cat Cleric,2023-04-21,0.25,1.0,['W'],rare
+198,Prophet of the Peak,Artifact Creature — Cat,2019-10-04,0.03,6.0,[],common
+199,Prowling Caracal,Creature — Cat,2019-07-12,0.19,2.0,['W'],common
+200,Prowling Felidar,Creature — Cat Beast,2020-09-25,0.02,4.0,['W'],common
+201,Prowling Serpopard,Creature — Cat Snake,2017-04-28,1.29,3.0,['G'],rare
+202,Purraj of Urborg,Legendary Creature — Cat Warrior,1996-10-08,0.81,5.0,['B'],rare
+203,Pyretic Hunter,Creature — Elemental Cat,2016-08-26,0.04,5.0,['R'],uncommon
+204,"Qala, Ajani's Pridemate",Legendary Creature — Cat Warrior,2024-11-15,7.14,4.0,['W'],uncommon
+205,Qasali Ambusher,Creature — Cat Warrior,2008-10-03,0.75,3.0,"['G', 'W']",uncommon
+206,Qasali Pridemage,Creature — Cat Wizard,2022-07-08,0.19,2.0,"['G', 'W']",common
+207,Qasali Slingers,Creature — Cat Warrior,2017-08-25,3.62,5.0,['G'],rare
+208,Raging Cougar,Creature — Cat,1997-05-01,0.24,3.0,['R'],common
+209,Raksha Golden Cub,Legendary Creature — Cat Soldier,2017-08-25,0.57,7.0,['W'],rare
+210,Regal Caracal,Creature — Cat,2024-11-15,2.66,5.0,['W'],rare
+211,Regal Leosaur,Creature — Dinosaur Cat,2020-04-24,0.10,2.0,"['R', 'W']",uncommon
+212,Regathan Firecat,Creature — Elemental Cat,2013-07-19,0.03,3.0,['R'],common
+213,"Rigo, Streetwise Mentor",Legendary Creature — Cat Citizen,2022-04-29,0.12,3.0,"['G', 'U', 'W']",rare
+214,"Rin and Seri, Inseparable",Legendary Creature — Dog Cat,2020-07-03,13.70,4.0,"['G', 'R', 'W']",mythic
+215,Riparian Tiger,Creature — Cat,2016-09-30,0.04,5.0,['G'],common
+216,"Roxanne, Starfall Savant",Legendary Creature — Cat Druid,2024-04-19,0.92,5.0,"['G', 'R']",rare
+217,Rubblebelt Maaka,Creature — Cat,2024-01-12,0.03,4.0,['R'],common
+218,"Runadi, Behemoth Caller",Legendary Creature — Cat Shaman,2022-12-02,3.42,3.0,['G'],rare
+219,Sabertooth Alley Cat,Creature — Cat,2005-10-07,0.12,3.0,['R'],common
+220,Sabertooth Mauler,Creature — Cat,2020-07-03,0.03,4.0,['G'],common
+221,Sabertooth Nishoba,Creature — Cat Beast Warrior,2000-10-02,0.26,6.0,"['G', 'W']",rare
+222,Sabretooth Tiger,Creature — Cat,2003-07-28,0.13,3.0,['R'],common
+223,Sacred Cat,Creature — Cat,2017-04-28,0.35,1.0,['W'],common
+224,Sanctuary Cat,Creature — Cat,2012-02-03,0.11,1.0,['W'],common
+225,Savage Firecat,Creature — Elemental Cat,2001-10-01,0.28,5.0,['R'],rare
+226,Savai Sabertooth,Creature — Cat,2020-04-24,0.02,2.0,['W'],common
+227,Savai Thundermane,Creature — Elemental Cat,2020-04-24,0.02,2.0,"['R', 'W']",uncommon
+228,Savannah Lions,Creature — Cat,2023-01-13,0.02,1.0,['W'],common
+229,Savannah Sage,Creature — Cat Cleric,2019-07-12,0.19,2.0,['W'],common
+230,Scarred Puma,Creature — Cat,2000-10-02,0.09,1.0,['R'],common
+231,Scoria Cat,Creature — Cat,2000-06-05,0.29,5.0,['R'],uncommon
+232,Scrounging Bandar,Creature — Cat Monkey,2020-11-20,0.02,2.0,['G'],common
+233,Scythecat Cub,Creature — Cat,2024-11-15,26.01,2.0,['G'],rare
+234,Scythe Leopard,Creature — Cat,2016-09-02,0.08,1.0,['G'],uncommon
+235,Scythe Tiger,Creature — Cat,2009-10-02,0.09,1.0,['G'],common
+236,Seht's Tiger,Creature — Cat,2017-08-25,0.35,4.0,['W'],rare
+237,"Silvar, Devourer of the Free",Legendary Creature — Cat Nightmare,2020-04-17,0.41,5.0,"['B', 'R']",mythic
+238,Silvercoat Lion,Creature — Cat,2012-07-13,0.03,2.0,['W'],common
+239,Skycat Sovereign,Creature — Elemental Cat,2020-04-24,0.22,2.0,"['U', 'W']",rare
+240,Skyclave Shadowcat,Creature — Cat Horror,2020-09-25,0.06,4.0,['B'],uncommon
+241,Skyhunter Cub,Creature — Cat Knight,2003-10-02,0.12,3.0,['W'],common
+242,Skyhunter Patrol,Creature — Cat Knight,2011-04-01,0.20,4.0,['W'],common
+243,Skyhunter Prowler,Creature — Cat Knight,2007-07-13,0.05,3.0,['W'],common
+244,Skyhunter Skirmisher,Creature — Cat Knight,2015-05-22,0.15,3.0,['W'],common
+245,Skyhunter Strike Force,Creature — Cat Knight,2024-01-25,1.71,3.0,['W'],rare
+246,Skyknight Squire,Creature — Cat Scout,2024-11-15,0.88,2.0,['W'],rare
+247,Skyship Stalker,Creature — Cat Dragon,2021-07-23,0.14,4.0,['R'],rare
+248,Slashing Tiger,Creature — Cat,1999-05-01,49.49,4.0,['G'],rare
+249,Slash Panther,Artifact Creature — Phyrexian Cat,2011-05-13,0.05,5.0,['R'],common
+250,"Snapdax, Apex of the Hunt",Legendary Creature — Dinosaur Cat Nightmare,2020-04-24,0.32,4.0,"['B', 'R', 'W']",mythic
+251,Soul of Windgrace,Legendary Creature — Cat Avatar,2022-09-09,0.48,4.0,"['B', 'G', 'R']",mythic
+252,Sovereign Okinec Ahau,Legendary Creature — Cat Noble,2023-11-17,2.88,4.0,"['G', 'W']",mythic
+253,Spara's Adjudicators,Creature — Cat Citizen,2022-04-29,0.02,5.0,"['G', 'U', 'W']",common
+254,Spectral Lynx,Creature — Cat Spirit,2023-01-13,0.04,2.0,"['B', 'W']",uncommon
+255,Spirit of the Hearth,Creature — Cat Spirit,2017-08-25,0.38,6.0,['W'],rare
+256,Springing Tiger,Creature — Cat,2001-10-01,0.13,4.0,['G'],common
+257,Stalking Leonin,Creature — Cat Archer,2024-02-09,0.07,3.0,['W'],rare
+258,Stalking Tiger,Creature — Cat,2017-04-15,0.08,4.0,['G'],common
+259,Steppe Lynx,Creature — Cat,2009-10-02,0.15,1.0,['W'],common
+260,Stonework Puma,Artifact Creature — Cat Ally,2015-08-28,0.05,3.0,[],common
+261,Streetwise Negotiator,Creature — Cat Citizen,2023-04-21,0.02,2.0,['G'],uncommon
+262,Sunspear Shikari,Creature — Cat Soldier,2023-08-04,0.03,2.0,['W'],common
+263,Sunspine Lynx,Creature — Elemental Cat,2024-08-02,1.24,4.0,['R'],rare
+264,Tabaxi Toucaneers,Creature — Cat Ranger,2022-06-10,0.02,5.0,['W'],common
+265,Taj-Nar Swordsmith,Creature — Cat Soldier,2017-08-25,0.21,4.0,['W'],uncommon
+266,Teacher's Pet,Creature — Cat Bird Scientist,2017-12-08,0.20,2.0,['W'],uncommon
+267,Temur Sabertooth,Creature — Cat,2022-04-29,2.73,4.0,['G'],uncommon
+268,Territorial Scythecat,Creature — Cat,2020-09-25,0.06,3.0,['G'],common
+269,Tethmos High Priest,Creature — Cat Cleric,2018-12-07,0.07,3.0,['W'],common
+270,Thriving Skyclaw,Creature — Cat Dragon,2024-06-14,0.03,4.0,['R'],common
+271,Topiary Panther,Creature — Plant Cat,2024-02-09,0.05,6.0,['G'],common
+272,Trained Arynx,Creature — Cat Beast Mount,2024-04-19,0.04,2.0,['W'],common
+273,Trained Caracal,Creature — Cat,2012-10-05,0.07,1.0,['W'],common
+274,Trained Cheetah,Creature — Cat,1999-05-01,14.60,3.0,['G'],uncommon
+275,Trove Warden,Creature — Cat Beast,2020-09-25,0.35,4.0,['W'],rare
+276,Twilight Panther,Creature — Cat Spirit,2024-02-23,0.10,1.0,"['B', 'W']",common
+277,Uktabi Wildcats,Creature — Cat,2001-04-11,0.54,5.0,['G'],rare
+278,Undead Leotau,Creature — Zombie Cat,2008-10-03,0.05,6.0,"['B', 'R']",common
+279,Urborg Panther,Creature — Nightstalker Cat,1996-10-08,0.14,3.0,['B'],common
+280,"Vadrok, Apex of Thunder",Legendary Creature — Elemental Dinosaur Cat,2020-04-24,0.56,3.0,"['R', 'U', 'W']",mythic
+281,Vanguard of Brimaz,Creature — Cat Soldier,2014-02-07,0.10,2.0,['W'],uncommon
+282,Vivien's Jaguar,Creature — Cat Spirit,2018-07-13,0.18,3.0,['G'],uncommon
+283,Warehouse Tabby,Creature — Cat,2023-09-08,0.03,1.0,['B'],common
+284,Wary Thespian,Creature — Cat Druid,2024-11-15,0.10,2.0,['G'],common
+285,"Wasitora, Nekoru Queen",Legendary Creature — Cat Dragon,2022-07-08,0.53,5.0,"['B', 'G', 'R']",rare
+286,Watchers of the Dead,Artifact Creature — Cat,2017-04-28,0.06,2.0,[],uncommon
+287,Whitemane Lion,Creature — Cat,2023-01-13,0.08,2.0,['W'],common
+288,Wild Jhovall,Creature — Cat,1999-10-04,0.11,4.0,['R'],common
+289,Wild Leotau,Creature — Cat,2009-02-06,0.04,4.0,['G'],common
+290,Wild Nacatl,Creature — Cat Warrior,2011-09-02,1.05,1.0,['G'],common
+291,Wily Bandar,Creature — Cat Monkey,2016-09-30,0.06,1.0,['G'],common
+292,Windgrace Acolyte,Creature — Cat Warrior,2018-04-27,0.05,5.0,['B'],common
+293,Wirecat,Artifact Creature — Cat,1998-10-12,0.23,4.0,[],uncommon
+294,"Ygra, Eater of All",Legendary Creature — Elemental Cat,2024-08-02,13.20,5.0,"['B', 'G']",mythic
+295,Zarichi Tiger,Creature — Cat,2013-02-01,0.06,4.0,['W'],common
+296,"Zar Ojanen, Scion of Efrava",Legendary Creature — Cat Warrior,2022-09-09,0.05,5.0,"['G', 'W']",uncommon
+297,Zodiac Tiger,Creature — Cat,1999-05-01,43.00,4.0,['G'],uncommon
