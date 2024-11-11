@@ -14,3 +14,53 @@ Este projeto utiliza a API do [Scryfall](https://scryfall.com/docs/api) para faz
 Este projeto requer o Python e as bibliotecas `requests` e `pandas`. Instale as bibliotecas com:
 ```bash
 pip install requests pandas
+```
+### 2. Instruções de Uso
+Primeiro, crie uma instância da classe Scryfall_Cards (você também pode executar pelo terminal sem precisar importar), passando o tipo de carta desejado (por exemplo, type:creature):
+```bash
+from scryfall_cards import Scryfall_Cards
+
+# Exemplo de criação da instância
+cards = Scryfall_Cards('type:creature')
+```
+#### Criar DataFrame
+Para criar um DataFrame pandas contendo as informações das cartas, utilize o método create_df_cards().
+```bash
+cards_df = cards.create_df_cards()
+print(cards_df.head())
+```
+## Parâmetros Disponíveis
+Existem muitos parâmetros que são aceitos pela classe Scryfall_Cards, dentre os vários, incluem:
+* Tipo (type): creature, enchantment, planeswalker, etc.
+* Cor (color): r (red), u (blue), w (white), b (black), g (green), colorless, combinações como gw (green and white), etc.
+* Custo de Mana Convertido (cmc): 1, <2, >=3, etc.
+* Raridade (rarity): mythic, common, uncommon, etc.
+* Atributo de Jogo (oracle): flying, infect, trample, etc.
+
+Para obter ajuda detalhada sobre os parâmetros, use o método estático help_params():
+```bash
+Scryfall_Cards.help_params()
+```
+## Estrutura do DataFrame
+O DataFrame gerado possui as seguintes colunas:
+* card_name: Nome da carta
+* card_type: Tipo da carta
+* release: Data de lançamento
+* usd_price: Preço em dólares (se disponível)
+* cmc: Custo de Mana Convertido
+* color_identity: Identidade de cor da carta
+* rarity: Raridade da carta
+
+## Exemplo de Saída
+```bash
+   card_name         card_type     release usd_price cmc color_identity rarity
+0  Sol Ring      Artifact        1993-08-05  1.50    1     ['C']         uncommon
+1  Black Lotus  Artifact         1993-08-05  15000.00  0    ['C']         mythic
+...
+```
+## Observações
+* Este projeto é focado em busca e análise de cartas para Magic: The Gathering usando a API do Scryfall.
+* Tenha em mente os limites de taxa da API, especialmente ao realizar buscas grandes ou repetidas.
+
+## Conclusão
+Esse projeto oferece uma ferramenta prática para colecionadores, jogadores e entusiastas de MTG que desejam explorar o mundo das cartas de forma automatizada e analítica. Ao usar a API do Scryfall e o pandas, você pode facilmente obter, filtrar e organizar dados de cartas para diversos fins, como análise de preços, planejamento de decks e mais.
