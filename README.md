@@ -53,9 +53,17 @@ Scryfall_Cards.help_params()
 Outra forma de preencher os parâmetros para a criação do objeto, é usar o próprio site do [Scryfall](https://scryfall.com), basta clicar em Advanced Search:
 ![Menu Scryfall](scryfall_images/scryfall_menu.png)
 
-Após isso, preencha os dados de acordo com as caracteríticas de cartas que você deseja procurar:
+Após isso, preencha os dados de acordo com as caracteríticas de cartas que você deseja procurar e clicar em Search With These Options:
 ![Filtro Scryfall](scryfall_images/search_options.png)
 
+Ao clicar, todas as cartas com aquela filtragem aparecerão, agora basta copiar o que está escrito na pesquisa e colar no parâmetro da criação do objeto:
+![Resultado](scryfall_images/result.png)
+
+Criação do objeto com a pesquisa feita no scryfall:
+```bash
+cards = Scryfall_Cards('oracle:deathtouch type:creature color=B (game:paper) rarity:rare')
+cards_df = cards.create_df_cards()
+```
 ## Estrutura do DataFrame
 O DataFrame gerado possui as seguintes colunas:
 * card_name: Nome da carta
