@@ -26,7 +26,7 @@ pip install requests pandas
 ```
 ### 2. Instruções de Uso
 Primeiro, crie uma instância da classe Scryfall_Cards (você também pode executar pelo terminal sem precisar importar), passando o tipo de carta desejado (por exemplo, type:creature):
-```bash
+```python
 from scryfall_cards import Scryfall_Cards
 
 # Exemplo de criação da instância
@@ -34,7 +34,7 @@ cards = Scryfall_Cards('type:creature')
 ```
 #### Criar DataFrame
 Para criar um DataFrame pandas contendo as informações das cartas, utilize o método create_df_cards().
-```bash
+```python
 cards_df = cards.create_df_cards()
 print(cards_df.head())
 ```
@@ -47,20 +47,26 @@ Existem muitos parâmetros que são aceitos pela classe Scryfall_Cards, dentre o
 * Atributo de Jogo (oracle): flying, infect, trample, etc.
 
 Para obter ajuda detalhada sobre os parâmetros, use o método estático help_params():
-```bash
+```python
 Scryfall_Cards.help_params()
 ```
-Outra forma de preencher os parâmetros para a criação do objeto, é usar o próprio site do [Scryfall](https://scryfall.com), basta clicar em Advanced Search:
+## Preenchendo os Parâmetros com o Scryfall
+
+Outra forma de preencher os parâmetros para a criação do objeto é utilizar o próprio site do [Scryfall](https://scryfall.com). Basta clicar em **Advanced Search**:
+
 ![Menu Scryfall](scryfall_images/scryfall_menu.png)
 
-Após isso, preencha os dados de acordo com as caracteríticas de cartas que você deseja procurar e clicar em Search With These Options:
+Depois, preencha os filtros de acordo com as características das cartas que você deseja procurar e clique em **Search With These Options**:
+
 ![Filtro Scryfall](scryfall_images/search_options.png)
 
-Ao clicar, todas as cartas com aquela filtragem aparecerão, agora basta copiar o que está escrito na pesquisa e colar no parâmetro da criação do objeto:
+Ao clicar, todas as cartas que atendem à filtragem aparecerão. Agora, basta copiar o texto da pesquisa gerada e colá-lo no parâmetro ao criar o objeto:
+
 ![Resultado](scryfall_images/result.png)
 
-Criação do objeto com a pesquisa feita no scryfall:
-```bash
+Exemplo de criação do objeto com a pesquisa feita no Scryfall:
+
+```python
 cards = Scryfall_Cards('oracle:deathtouch type:creature color=B (game:paper) rarity:rare')
 cards_df = cards.create_df_cards()
 ```
@@ -75,7 +81,7 @@ O DataFrame gerado possui as seguintes colunas:
 * rarity: Raridade da carta
 
 ## Exemplo de Saída
-```bash
+```
    card_name         card_type     release usd_price cmc color_identity rarity
 0  Sol Ring      Artifact        1993-08-05  1.50    1     ['C']         uncommon
 1  Black Lotus  Artifact         1993-08-05  15000.00  0    ['C']         mythic
