@@ -51,7 +51,7 @@ Para obter ajuda detalhada sobre os parâmetros, use o método estático help_pa
 Scryfall_Cards.help_params()
 ```
 Outra forma de preencher os parâmetros para a criação do objeto, é usar o próprio site do [Scryfall](https://scryfall.com), basta clicar em Advanced Search:
-![Menu Scryfall](https://github.com/MarcoAmef/scryfall_cards_data_colector/tree/main/scryfall_images)
+![Menu Scryfall](scryfall_images/scryfall_menu.png)
 
 ## Estrutura do DataFrame
 O DataFrame gerado possui as seguintes colunas:
